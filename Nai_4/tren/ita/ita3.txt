@@ -1,0 +1,904 @@
+
+[nascondi]
+Wikimedia-logo.svg Libera la cultura. Dona il tuo 5×1000 a Wikimedia Italia. Scrivi 94039910156. Wikimedia-logo.svg
+Roma (città antica)
+Da Wikipedia, l'enciclopedia libera.
+Jump to navigation
+Jump to search
+Roma antica
+Roma
+Roma Romolo 753aC.png
+Roma quadrata negli anni della sua fondazione (circa 750 a.C.)
+Localizzazione
+Stato	Italia Italia
+Altitudine	20-50 m s.l.m.
+Dimensioni
+Superficie	70 000 000 m²
+Amministrazione
+Patrimonio	Centro storico di Roma
+Ente	Comune di Roma
+Sito web	archeoroma.beniculturali.it
+Modifica dati su Wikidata · Manuale
+
+Roma fu una città dell'età antica, la cui storia come centro egemone, politicamente e culturalmente, si sviluppò lungo il fiume Tevere nell'antico Latium vetus,[1] per oltre un millennio (dal 753 a.C. al 476 d.C., continuando poi fino ai nostri giorni).
+
+Risulta verosimile che Roma sia nata dopo un lungo processo di aggregazione dei villaggi che sorgevano sulle colline circostanti il fiume Tevere (ad esempio sul Palatium, sul Cermalus o sulla Velia). Alcuni storici hanno poi creduto di poter disegnare lo sviluppo della città, come segue: la formazione della prima civitas quadrata sul Palatino, in seguito allargata al Septimontium e poi alla città delle quattro regioni. Questa teoria non sembra però essere stata accolta da tutti.[2]
+
+Essa rappresentò la prima grande metropoli dell'umanità (tanto che il numero di abitanti della Roma Augustea fu raggiunto solamente agli inizi del XIX secolo da Londra) cuore di una delle più importanti civiltà antiche, che influenzò la società, la cultura, la lingua, la letteratura, l'arte, l'architettura, la filosofia, la religione, il diritto e i costumi dei secoli successivi. Capitale della Repubblica prima e dell'Impero romano poi, estese il suo dominio su tutto il bacino del Mediterraneo e gran parte dell'Europa.
+Indice
+
+    1 Toponimo
+    2 Territorio antico
+        2.1 Orografia
+        2.2 Idrografia
+    3 Storia, urbanistica e architettura
+        3.1 Età regia
+            3.1.1 Urbanistica
+            3.1.2 Archeologia dei principali edifici/siti
+        3.2 Età repubblicana
+            3.2.1 Urbanistica
+            3.2.2 Archeologia dei principali edifici
+        3.3 Età imperiale
+            3.3.1 Alto Impero
+                3.3.1.1 Urbanistica
+                3.3.1.2 Archeologia dei principali edifici: da Augusto ad Adriano (27 a.C.-138 d.C.)
+                3.3.1.3 Archeologia dei principali edifici: dagli Antonini ad Aureliano (138-275)
+            3.3.2 Tardo Impero romano
+                3.3.2.1 Urbanistica
+                3.3.2.2 Archeologia dei principali edifici (da Diocleziano a Costantino il Grande)
+    4 Principali campagne di scavo
+    5 Note
+    6 Bibliografia
+    7 Voci correlate
+    8 Altri progetti
+    9 Collegamenti esterni
+
+Toponimo
+Le origini del nome
+
+Sull'origine del nome Roma sono state formulate diverse ipotesi[3]; il nome potrebbe derivare:
+
+    da Roma, figlia di Italo (o di Telefo figlio di Ercole), sposa di Enea o di suo figlio Ascanio[4];
+    da Romano, figlio di Odisseo e Circe[4];
+    da Romo, figlio di Ematione, che Diomede fece giungere da Troia[4];
+    da Romide, tiranno dei latini, che espulse gli etruschi dalla regione[4];
+    da Rommylos e Romos (Romolo e Remo), figli gemelli di Ascanio che fondarono la città[5];
+    da Rumon o Rumen, nome arcaico del Tevere,[2] avente radice analoga a quella del verbo greco ??? (rhèo) e del verbo latino ruo, che significano "scorrere"[6][7];
+    dall'etrusco ruma, che significa mammella, e potrebbe quindi riferirsi al mito di Romolo e Remo, oppure anche alla conformazione della zona collinare del Palatino e dell'Aventino[8];
+    dal greco ??µ? (rhòme), che significa forza[9];
+    da Roma, una ragazza troiana che conosceva l'arte della magia, di cui troviamo accenni negli scritti del poeta Stesicoro[10];
+    da Amor, cioè la parola Roma se letta da destra verso sinistra: l'interpretazione è dello scrittore bizantino Giovanni Lido, vissuto nel V secolo[11].
+
+L'origine del nome della città e, di conseguenza, del popolo che lo abitava, era incerta anche in età arcaica. Servio Mario Onorato, grammatico a cavallo tra il IV e il V secolo d.C., riteneva che il nome potesse derivare da un'antica denominazione del fiume Tevere, Rumon,[2] dalla radice indoeuropea del verbo latino ruo (presente nel greco ???) 'scorro', così da assumere il significato di 'città del fiume', ma si tratta di un'ipotesi che non ha riscosso molto successo.
+
+Gli autori di origine greca, primo fra tutti Plutarco, tendevano naturalmente ad autocelebrarsi come i civilizzatori e i colonizzatori del bacino del Mediterraneo, e quindi insistevano sulla lontana origine ellenica della città. Una prima versione fornita da Plutarco vede la fondazione di Roma dovuta al popolo dei Pelasgi, i quali una volta giunti sulle coste del Lazio, avrebbero fondato una città il cui nome ricordasse la loro prestanza nelle armi (rhome).[12] Una seconda ricostruzione dello stesso autore ci dice che i profughi troiani guidati da Enea arrivarono sulle coste del Lazio, dove fondarono una città presso il colle Pallantion a cui diedero il nome di una delle loro donne, Rhome.[13] Una terza versione sempre di Plutarco offre altre ipotesi alternative, secondo le quali Rome poteva essere un mitico personaggio eponimo, figlia di Italo, re degli Enotri o di Telefo, figlio di Eracle, che sposò Enea o il di lui figlio, Ascanio.[14]
+
+Una quarta versione vede Roma fondata da Romano, figlio di Odisseo e di Circe; una quinta da Romo, figlio di Emazione, giunto da Troia per volontà dell'eroe greco Diomede; una sesta da Romide, tiranno dei Latini, che era riuscito a respingere gli Etruschi, giunti in Italia dalla Lidia e in Lidia dalla Tessaglia.[14] Un'altra versione fa della stessa Rome la figlia di Ascanio, e quindi nipote di Enea. Ancora una Rome profuga troiana giunge nel Lazio e sposa il re Latino, sovrano del popolo lì stanziato e figlio di Telemaco, da cui ebbe un figlio di nome Romolo che fondò una città chiamata col nome della madre.[15] In tutte le versioni si ritrova la stessa eponima chiamata Rome, la cui etimologia proviene dalla parola greca rhome con il significato di "forza". Le fonti citano anche altri possibili eroi eponimi come Romo, figlio del troiano Emasione, o ancora Rhomis, signore dei Latini e vincitore degli Etruschi.
+
+Secondo altre interpretazioni di un certo interesse, il nome ruma sarebbe di origine etrusca, in quanto non ne è stato trovato l'etimo indoeuropeo (e l'unica lingua non-indoeuropea della zona era appunto l'etrusco). Il termine sarebbe entrato come prestito nel latino arcaico e avrebbe dato origine al toponimo Ruma (più tardi Roma) e a un prenome Rume (in latino divenuto Romus), dal quale sarebbe derivato il gentilizio etrusco Rumel(e)na[16], divenuto in latino Romilius. Il nome Romolo sarebbe quindi derivato da quello della città, e non viceversa.
+
+In ogni caso la tradizione linguistica assegna al termine ruma, in etrusco e in latino arcaico, il significato di mammella, come è confermato da Plutarco il quale, nella "Vita di Romolo" racconta che:
+
+«Sulle rive dell'insenatura sorgeva un fico selvatico che i Romani chiamavano Ruminalis o, come pensa la maggioranza degli studiosi, dal nome di Romolo, oppure perché gli armenti erano soliti ritirarsi a ruminare sotto la sua ombra di mezzogiorno, o meglio ancora perché i bambini vi furono allattati; e gli antichi latini chiamavano ruma la mammella: ancora oggi chiamano Rumilia una dea che viene invocata durante l'allattamento dei bambini»
+(Plutarco, Vita di Romolo, 4, 1.)
+
+Questa interpretazione del termine ruma è quindi strettamente collegata con i motivi che hanno portato alla scelta, come simbolo della città di Roma, di una lupa con le mammelle gonfie che allatta i due mitici gemelli fondatori.
+Territorio antico
+Il territorio dell'antico Latium vetus, il Tevere e l'antica città di Roma.
+
+La morfologia dell'area geografica su cui insisteva la Roma primitiva può essere dedotta da analogie e da verifiche geologiche di quello e altri siti della valle del Tevere: era una zona caratterizzata da colline di altezza di solito contenuta ma dai fianchi tufacei che potevano anche essere estremamente ripidi e con le sommità generalmente abbastanza pianeggianti, adatte quindi a ospitare nuclei abitativi che, per ovvi motivi di sicurezza, preferivano stabilirsi su queste alture piuttosto che nelle valli sottostanti. In particolare, la sommità del Palatino aveva una forma vagamente trapezoidale, che potrebbe essere stato il motivo per cui questa prima Roma venne definita “quadrata”.
+
+Sicuramente la natura del luogo dove sorse il nucleo iniziale di Roma, lungo la sponda sinistra del fiume Tevere, ai piedi di numerosi colli (in particolare Aventino, Palatino e Campidoglio) sulle cui sommità sorsero i primi abitati protourbani, non molto distante dal mare, fecero di questo centro il luogo adatto allo scambio di merci (tra cui il sale, di fondamentale importanza) e bestiame tra differenti culture. Coarelli, infatti, racconta del carattere "emporico" del luogo, frequentato da Fenici (fin dai decenni finali dell'VIII secolo a.C.) e da Greci (dal secondo quarto sempre dell'VIII secolo), questi ultimi identificabili probabilmente con gli Eubei di Cuma. Il guado del Tevere, come pure le vie di transumanza delle greggi e mandrie, oltre all'approvvigionamento del sale erano collegati al culto di un Ercole di origine sabina, che aveva nel foro Boario il centro del sistema emporico dell'area.[17]
+
+Certamente la spinta all'aggregazione fu favorita dalla posizione della città, al crocevia di due importanti vie di comunicazione commerciali. La prima, che dalle città etrusche del nord, tra cui la vicina Veio, arrivava in Campania dove erano state fondate le polis greche, e utilizzata per lo scambio di materie prime presenti in Etruria contro prodotti lavorati dei greci; la seconda che dai monti della Sabina arrivava al mare, utilizzata soprattutto per il trasporto del sale (tramite la via Salaria e la via Campana).[18]
+
+Per la difesa di questi primi agglomerati urbani si sfruttava, per quanto possibile, la conformazione del terreno, nel senso che veniva eretto un muro o, piuttosto, un rinforzo, solo dove il pendio del colle non era abbastanza ripido da impedire l'accesso. Spesso all'esterno del muro veniva anche scavato un fossato tale da rendere quanto meno difficoltoso l'avvicinamento sui lati non difesi naturalmente.
+Orografia
+Lo scenario naturale del septimontium dove nacque Roma antica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Sette colli di Roma.
+
+Il nucleo centrale e antico della città era costituito dagli storici sette colli: Palatino, Aventino, Campidoglio, Quirinale, Viminale, Esquilino e Celio.
+
+Potremmo anche aggiungere che Roma sorse in una zona temperata dell'Italia centrale, non troppo lontana dal mare, nei pressi di una grande ansa del fiume Tevere adatta a costituire un buon approdo anche per la vicinanza di un ottimo guado costituito dall'isola Tiberina, la cui buona portata idrica favorì certamente il commercio di mercanzie, su colline salubri e convergenti che si allungavano da nord-est a sud-est come dita di una mano, e costituivano un valido sistema di difesa da attacchi nemici. Questo sistema collinare era per così dire costituito da tre lunghe "dita di una mano": a sud l'Aventino, al centro quella composta da Palatino, Velia ed Esquilino, e più a nord quella di Quirinale e Campidoglio.
+
+A queste andrebbero poi aggiunte alcune "lingue" o "dita" più corte del Celio (tra Aventino e Palatino-Velia-Esquilino), del Viminale e del Cispio (tra Esquilino e Quirinale), tralasciando più a nord i montes attuali di Pincio e Parioli. A questi rilievi si interponevano anche alcune valli come la Vallis Murcia (tra Aventino e Palatino, e occupata più tardi dal Circo Massimo) e la valle del futuro Foro romano (tra Palatino, Velia e Campidoglio) che si allungava più a nord nella zona pianeggiante della Suburra. Massimo Pallottino conclude sostenendo che condizioni così "privilegiate" non sono riscontrabili altrove.[19]
+Idrografia
+
+Roma sorse lungo la sponda sinistra del fiume Tevere, ai piedi di numerosi colli in particolare Aventino, Palatino e Campidoglio. Il Tevere costituiva il confine naturale tra due differenti culture che, fin dalla fine dell'età del bronzo (attorno al 1000 a.C.), andavano ormai contrapponendosi anche etnicamente: la cultura protolaziale a sud (il Latium vetus dei Latini-Falisci) e quella protovillanoviana a nord (l'Etruria degli Etruschi).[20] E non fu probabilmente un caso che i villaggi della zona che sorsero sui colli attorno al guado dell'isola Tiberina, si aggregarono inizialmente intorno al colle Palatino; questo infatti è vicino al Campidoglio, colle strategico dal punto di vista militare, ma è anche vicino all'isola stessa, ottimo guado tra la riva etrusca e quella latina. Il Palatino era anche un ottimo punto d'osservazione sia verso l'Aventino, sia verso il Quirinale, sul quale erano stanziati i Sabini.
+
+La città, oltre che dal Tevere, era ed è attraversata anche da un altro fiume, l'Aniene, che confluisce nel Tevere nella zona settentrionale dell'odierno territorio urbano.
+Storia, urbanistica e architettura
+Questa voce è parte della serie
+Civiltà romana
+SPQR
+
+Periodi della storia romana
+
+    Fondazione di Roma (753 a.C.)
+    Età regia (753-509 a.C.)
+    Età repubblicana (509-31 a.C.)
+    Età imperiale (31 a.C.-476)
+        Alto Impero romano (31 a.C.-284)
+        Tardo impero romano (284-476)
+        Impero romano d'Occidente (395-476)
+        Impero romano d'Oriente (395-1453)
+
+    Roma antica (la città)
+    Costantinopoli (la seconda Roma)
+
+Categorie
+    Antica Roma  · Storia di Roma  · Storia d'Italia
+
+Questo box: vedi • disc. • mod.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Storia romana, urbanistica romana, architettura romana e monumenti di Roma antica.
+Età regia
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Età regia di Roma.
+
+Fondata secondo la tradizione il 21 aprile 753 a.C.[21] in seguito all'uccisione di Remo da parte del fratello Romolo, Roma venne governata per 244 anni, secondo la tradizione, da sette re: lo stesso Romolo, Numa Pompilio, Tullo Ostilio, Anco Marzio, Tarquinio Prisco, Servio Tullio e Tarquinio il Superbo[22].
+Urbanistica
+
+Roma quadrata di Romolo
+
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Roma quadrata.
+
+Il leggendario solco tracciato da Romolo aveva probabilmente una funzione di pomerium e quindi di confine, ed è abbastanza verosimile, data l'antica conformazione del colle, che il primitivo muro[23] e il fossato che lo accompagnavano fossero stati realizzati solo sul lato tra il Germalo e il Palatino, a difesa del lato più esposto, anche se il pomerium, per il suo significato di cinta sacrale, doveva certamente circondare tutto il centro abitato.
+
+Una diversa spiegazione dell'aggettivo "quadrata” viene fornita da Festo e da Properzio, i quali suggeriscono che quadrato potesse essere il mondus, cioè quella fossa che veniva scavata al centro esatto del pomerium e riempita di tutti quegli oggetti sacrificali e beneauguranti che i sacerdoti utilizzavano durante la complessa cerimonia di inaugurazione della nuova città.
+
+Il baluardo tra Germalo e Palatino è però poco più di una verosimile congettura, sulla base della presenza di un avvallamento, tra le due alture, un po' troppo accentuato. La Roma quadrata cui accennano alcuni autori classici[24] comprendeva invece entrambe le alture, con l'esclusione del colle Velia. Tacito fornisce alcune indicazioni in merito al primitivo recinto della città, in base alle quali è possibile ipotizzare il seguente percorso, lungo circa un chilometro e mezzo: dalla basilica di Sant'Anastasia al Palatino, all'incirca all'incrocio tra le odierne via dei Cerchi e via di S. Teodoro, lungo il lato meridionale del Palatino fino alla chiesa di S. Gregorio, piegando poi verso l'Arco di Costantino, quindi verso l'Arco di Tito e la basilica di Santa Francesca Romana per ricongiungersi poi al tracciato dell'odierna via di San Teodoro e scendere per il Velabro fino alla chiesa di Santa Anastasia. Le estremità erano segnalate da altari: l'ara massima di Ercole invitto nel Foro Boario, l'ara di Conso nella valle del Circo Massimo, il santuario dei Lari ai piedi della Velia e le Curiae Veteres sull'angolo nord-orientale del Palatino.[25] È abbastanza evidente che alcuni di questi tratti sfruttavano la naturale conformazione del colle e non necessitavano pertanto di alcun muro.
+L'area "sacra" di Sant'Omobono.
+Segni di capanne sul Palatino risalenti all'VIII secolo a.C.
+
+Un elemento di particolare rilievo nei ritrovamenti dell'area di S. Omobono è dato dal fatto che insieme ai reperti del XIV secolo sono stati ritrovati anche resti, di indubbia provenienza greca, risalenti all'VIII secolo, quindi esattamente coincidenti con l'epoca della fondazione di Roma. Tale circostanza è pertanto una conferma archeologica della realtà storica degli indizi che hanno poi contribuito a generare la tradizione mitologica sulle origini leggendarie della città. Diverse teorie e studi cercano di collegare questi reperti; si tratta di ritrovamenti in un'area molto ristretta e che attestano la presenza di abitati nella zona del Campidoglio, Foro, Palatino in un'età anche antecedente a quella che la tradizione tramanda come data di fondazione.
+
+La tradizione che racconta che Roma fu fondata con un atto di volontà di Romolo, sembra avere un fondamento di verità soprattutto in seguito alla scoperta, a opera dell'archeologo italiano Andrea Carandini, di un'antica cinta muraria (che potrebbe essere l'antico "muro di Romolo") costituita da un muro a scaglie di tufo, con alla sommità incastri e tracce di una palizzata e vallo risalente al 730 a.C., eretto sul Palatino nel versante volto verso la Velia dietro la basilica di Massenzio alla base nord-orientale del colle Palatino. Tale cinta muraria potrebbe essere la conferma del tradizionale racconto sulla fondazione di Roma[26] ed è quasi contemporanea a una fibula di bronzo dell'VIII secolo, raffigurante un picchio che acceca Anchise, il padre di Enea, punendolo per essersi unito a Venere. Secondo lo storico Tacito, infatti, il "solco primigenio" tracciato da Romolo sul Palatino, primo nucleo urbano della futura città di Roma, avrebbe incluso l'Ara massima di Ercole invitto, monumento non solo già esistente attorno alla metà dell'VIII secolo a.C.,[23] ma costituente uno dei quattro angoli della città quadrata. Ancora Tacito e Strabone aggiungono che il Campidoglio, la sottostante piana del Foro romano e il colle del Quirinale furono aggiunti alla Roma quadrata da Tito Tazio.[1][25]
+
+Quest'ipotesi è stata ulteriormente confermata dalla scoperta nel 2005 di un grande palazzo ad architettura a capanna nell'area del tempio di Vesta che potrebbe essere il palazzo dei primi re di Roma. Muro, antico palazzo reale e primo tempio di Vesta fanno parte di un complesso architettonico risalente alla seconda metà dell'VIII secolo a.C. che sembra confermare l'esistenza di un progetto architettonico ben preciso già nella seconda metà dell'VIII secolo, data tradizionale della fondazione di Roma in questo periodo[27].
+
+Un altro gruppo di studiosi non ritiene che Roma sia nata da un atto di fondazione, sul modello delle polis greche nel sud Italia e in Sicilia, ma piuttosto che la fondazione della città storicamente debba attribuirsi a un diffuso fenomeno di formazione dei centri urbani, presente in gran parte dell'Italia centrale, e che nella fattispecie comprenda un periodo di diversi secoli: dal XIV secolo al VII secolo a.C. La città si venne quindi formando attraverso un fenomeno di sinecismo durato vari secoli,[28] che vide, in analogia a quanto accadeva in tutta l'Italia centrale, la progressiva riunione in un vero e proprio centro urbano degli insediamenti dispersi sui vari colli. In quest'epoca infatti i sepolcreti collocati negli spazi vuoti tra i primitivi villaggi furono abbandonati a favore di nuove necropoli poste all'esterno dell'area cittadina, in quanto tali spazi sono ora considerati parte integrante dello spazio urbano.
+
+Ed è anche quello che verosimilmente può essere accaduto sul Palatino, che inizialmente era composto da vari nuclei abitativi indipendenti (Palatium e Cermalus) e che si concluse attorno alla metà dell'VIII secolo, corrispondente alla tradizionale data di fondazione del 753 a.C. Il Romolo della leggenda può essere stato, pertanto, il realizzatore della prima unificazione di questi nuclei in un'entità unica. Secondo il Carandini l'abitato proto-urbano del sito di Roma, copriva un'area di circa 204 ettari, di cui 139 si riferivano ai montes e 65 ai colles del cosiddetto Septimontium.[29]
+
+Nei due secoli successivi, tale processo di unificazione fu probabilmente accelerato dall'occupazione etrusca della città andando a includere ora i famosi "sette colli". È vero infatti che, secondo la tradizione, sotto Tullo Ostilio fu aggiunto il colle Celio,[30] mentre al tempo di Anco Marzio i colli Aventino[31] e Gianicolo.[1][32]
+
+Roma delle mura serviane e dei Tarquini
+
+Plastico della Roma dei Tarquini presso il museo della civiltà romana all'EUR.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Mura serviane.
+
+A partire dalla fine del VII secolo a.C. da tutta l'Etruria, in particolare da Tarquinia, un imponente flusso migratorio si indirizzò su Roma, composto di notabili con persone al seguito e da semplici privati in cerca di lavoro e fortuna, richiamati dalle crescenti attrattive di un centro sempre più ricco e potente. Fu così che, gradualmente, i gruppi etnici etruschi, già presenti in città e residenti lungo il Vicus Tuscus, presero numericamente il sopravvento, impugnando le redini dell'economia mercantile cittadina, e impadronendosi del potere, imponendo re della loro medesima etnia.
+
+La struttura urbana successiva alla Roma quadrata si era basata su un processo di aggregazione tra le varie genti che occupavano i colli intorno al Palatino (Etruschi, Latini, Sabini, Ernici, ecc.), nucleo centrale della città, ed era organizzata in modo decentrato, nel senso che le varie alture costituenti la città non facevano parte di un'unica entità difensiva, ma possedevano, ciascuna, una sua struttura militare indipendente, affidata più alla forza e al valore degli uomini che non alle fortificazioni.
+
+L'avvento dei Tarquini nel VI secolo a.C. rese necessaria la costruzione di una struttura fortificata unitaria, prima con Tarquinio Prisco[33][34] e poi con Servio Tullio, il quale ampliò il pomerium[35] e annesse alla città, i colli Quirinale,[35] Viminale[1][35] ed Esquilino.[1][35][36] Fino ad allora la configurazione orografica dei colli era sufficiente a provvedere, da sola, alle necessità della difesa, eventualmente aiutata, dove si fosse rivelato necessario, dalla costruzione di tratti di mura o dallo scavo di un fossato e di un terrapieno (agger) lungo circa 6 stadi, tra Porta Collina ed Esquilino.[1] La prima forma di difese unitarie di Roma fu rappresentata, da un massiccio terrapieno costruito nelle zone più esposte della città (soprattutto nel tratto pianeggiante nord-orientale) e dall'unione delle difese individuali dei colli. Tale opera difensiva è attribuita, come riferisce Livio, al sesto re romano (secondo dei tre etruschi), Servio Tullio, alla metà del VI secolo a.C.[37] La recinzione con le mura fu il culmine di un'intensa attività urbanistica, fondata sulla delimitazione territoriale della città in quattro parti (la "Roma quadrata"). Si trattava di una cinta muraria di almeno 7 km, in blocchi squadrati di cappellaccio di tufo che fu poi utilizzato come appoggio per la fortificazione di un paio di secoli più tarda. Su questa struttura si apriva, probabilmente, una porta per ogni altura: la Mugonia per il Palatino, la Saturnia (o Pandana) per il Campidoglio, la Viminalis, l'Oppia, la Cespia e la Querquetulana per i colli di cui portano il nome (Querquetulum era l'antico nome del Celio) e la Collina (per il collis Quirinalis).
+
+Le mura serviane protessero Roma per più di 150 anni, almeno fino alla disastrosa invasione dei Galli senoni del 390 a.C.[38], dopo la quale le mura vennero riedificate ricalcando, probabilmente, il tracciato antico.
+
+L'emporio del foro Boario e l'annesso porto Tiberino, restarono a lungo al di fuori del perimetro cittadino, anche se la parte dell'area più lontana dal fiume, venne inglobata nell'allargamento della cinta difensiva nel IV secolo a.C. (cosiddette mura serviane), nella quale si apriva la porta Trigemina.
+Archeologia dei principali edifici/siti
+Ricostruzione del Tempio di Giove Ottimo Massimo sul Campidoglio, inaugurato nel 509 a.C.
+Pianta dei ritrovamenti nell'area di Sant'Omobono: "A" è il tempio della Fortuna, "B" il tempio di Mater Matuta, "C" il tempio arcaico (in rosso), "d" gli altari ed "e" il donario circolare
+
+Risalirebbe all'epoca di Romolo, la costruzione sul Campidoglio del Tempio di Giove Feretrio,[39] dopo aver sconfitto in battaglia il capo dei Ceninensi, un certo Acrone,[40] nel 752-751 a.C. come ricordano anche i Fasti triumphales.[41] Fu il primo tempio costruito nell'antica Roma, dove il signum di Giove Feretrio era una pietra dura custodita al suo interno, che Andrea Carandini identifica con il lapis silex, probabilmente un'ascia preistorica che rappresentava la materializzazione di un fulmine, e con la quale si effettuava il sacrificio di una scrofa al termine della ovatio (dopo aver percorso in processione la Via Sacra, dalla Velia fino al Campidoglio, al di fuori del pomerium).[42] E sempre a Romolo sarebbe da attribuirsi la costruzione del Tempio di Giove Statore presso il Foro romano.[43].
+
+Si racconta che al termine della battaglia del lago Curzio, Romani e Sabini decisero di collaborare, stipulando un trattato di pace, varando l'unione tra i due popoli, associando i due regni (quello di Romolo e Tito Tazio), lasciando che la città dove ora era trasferito tutto il potere decisionale continuasse a chiamarsi Roma.[44][45] Il vicino lago, nei pressi dell'attuale foro romano, fu chiamato in ricordo di quella battaglia e del comandante sabino scampato alla morte (Mezio Curzio), Lacus Curtius,[45] mentre il luogo in cui si conclusero gli accordi tra le due popolazioni, fu chiamato appunto Comitium, che deriva da comite per esprimere l'azione di incontrarsi.[46] Fu la zona di maggiore importanza politica del Foro e di Roma stessa dalla fine dell'età regia fino alla tarda età repubblicana, quando gran parte delle funzioni del Comizio passarono alla più ampia piazza del Foro e ad altri edifici che vi si affacciavano. Qui si teneva infatti l'assemblea più antica, quella dei comizi curiati.
+
+Posto invece ai piedi dei vicini colli di Palatino e Campidoglio, il Vicus Iugarius congiungeva anticamente il Foro con il porto fluviale sul Tevere, al confine tra Foro Olitorio e Foro Boario. Nel secondo quarto del VI secolo a.C. sorsero sull'area, già occupata da capanne protostoriche, due templi arcaici gemelli, dei quali solo uno è stato possibile scavare (il secondo è sotto la chiesa). Dalle fonti sono stati indicati come i templi della Fortuna e della Mater Matuta. Le fonti collegano almeno il tempio della Fortuna a Servio Tullio, che intendeva celebrare con questo edificio la sua divinità protettrice, alla quale dedicò ben 26 templi a Roma, ciascuno con un'epiclesi diversa. Significativa fu la scelta del luogo: accanto al porto a voler sottolineare la crescente importanza commerciale di Roma. Anche la Mater Matuta era dopotutto una divinità legata alla navigazione (la "stella mattutina" che salvava dai naufragi e indicava la rotta, simile alla greca Inò), quindi popolare tra i marinari e mercanti stranieri che dovevano frequentare il porto. Gli scambi, che avvenivano tra romani, greci, etruschi, fenici e cartaginesi. E sempre Servio Tullio dedicò un tempio a Diana, sull'Aventino.[35][47]
+
+Il vicino Foro Boario era, quindi, un'area di mercato (emporio) della primitiva città, collocata nel punto in cui confluivano i percorsi che percorrevano la valle del Tevere e quelli tra Etruria e Campania, i quali in origine superavano il fiume in corrispondenza del guado dell'Isola Tiberina. Era frequentata da mercanti greci già all'epoca della fondazione della città, attorno alla metà dell'VIII secolo a.C. La riva del fiume costituiva il porto fluviale di Roma (portus Tiberinus), che come tutta l'area, aperta agli stranieri, era considerata esterna al perimetro della città e si trovava al di fuori delle mura più antiche. Vi aveva sede un antichissimo santuario, l'Ara massima di Ercole invitto, dedicato a una divinità locale assimilata al Melqart fenicio e più tardi a Ercole. Presso l'emporio, nei pressi dell'attraversamento del fiume, è stato scavato un tempio arcaico, nell'area di Sant'Omobono, risalente alla fine del VII-metà del VI secolo a.C., con resti di età appenninica che documentano una continuità di insediamento per tutta l'epoca regia.
+
+Poco più tardi, sempre in età regia, il guado venne sostituito dal ponte Sublicio, in legno, a opera di Anco Marzio. Sotto Servio Tullio, a imitazione del santuario rinvenuto nella città etrusca portuale di Pyrgi, nell'area del Foro Boario venne sistemato un secondo grande santuario, dedicato alla Fortuna e alla Mater Matuta (i cui resti sono stati rinvenuti negli scavi dell'area sacra di Sant'Omobono.
+Mappa di alcuni edifici di epoca regia, come il Comitium, la Regia e il tempio di Vesta a pianta circolare.
+
+Sotto Tarquinio Prisco viene iniziata la costruzione sul Campidoglio[33] del tempio dedicato alla triade capitolina, Giove, Giunone e Minerva (o Tempio di Giove Ottimo Massimo), completato alla data tradizionale del 509 a.C. dall'ultimo re di Roma, Tarquinio il Superbo,[48][49] la stessa in cui viene collocata la cacciata del re e l'inizio delle liste dei magistrati. Fu il centro del culto di stato romano, che secondo la tradizione fu eretto in concorrenza del santuario dedicato a Iuppiter Latiaris sul Mons Albanus, nei pressi di Alba Longa. Davanti al tempio terminavano le cerimonie trionfali[33] e vi erano depositati gli archivi riguardanti le relazioni estere e i Libri sibillini. La sua fondazione sembra risalire all'ultimo quarto del VI secolo a.C. ed essere opera del re Tarquinio Prisco. I lavori per la costruzione del tempio furono continuati dal re Tarquinio il Superbo,[48][49] ma il tempio fu inaugurato il 13 settembre del 509 a.C. da Marco Orazio Pulvillo, uno dei primi consoli repubblicani romani. La data di fondazione del tempio poteva anche essere stata verificata dagli storici romani successivi grazie ai clavi i chiodi annuali infissi nella parete interna del tempio. I resti del podio del tempio sono ancora parzialmente visibili sotto il Palazzo dei Conservatori e nei sotterranei dei Musei capitolini. Le sculture in terracotta, altra caratteristica dell'arte etrusca, che lo adornavano sono andate perdute, ma non dovevano essere molto diverse dalla scultura etrusca più famosa della stessa epoca, l'Apollo di Veio dello scultore Vulca, anch'essa parte di una decorazione templare (il Santuario di Portonaccio a Veio). Anche la tipologia architettonica del tempio sul Campidoglio è di tipo etrusco: un alto podio con doppio colonnato sul davanti sul quale si aprono tre celle.
+
+Tra le opere più imponenti della Roma arcaica ci fu la Cloaca Maxima (databile attorno al 600 a.C., al tempo di Tarquinio Prisco[33]),[34][50] che permise lo sviluppo della valle del Foro. Le mura serviane che furono costruite sotto i Tarquini, sarebbero state iniziate da Tarquinio Prisco[33][34][50] e completate, insieme con un ampio fossato, dal successore Servio Tullio. Appartengono poi alla seconda metà del VI secolo a.C. i monumenti arcaici del Comizio (la più antica sede dell'attività politica di Roma). Nei pressi di questo complesso, un'area pavimentata in pietra scura, il Lapis niger, era secondo la leggenda legata al luogo della morte di Romolo: qui è stata rinvenuta la più antica iscrizione latina conosciuta. Sul lato a ovest del Comizio verso le pendici del Campidoglio, in prossimità del cosiddetto Umbilicus Urbis, si trovava il Volcanale, un antichissimo santuario dedicato al dio Vulcano, fondato secondo la leggenda da Tito Tazio. Sempre al VI secolo risalirebbero la Regia (575-550 a.C.), il luogo in cui il Rex sacrorum e il pontefice massimo esercitavano la loro funzione sacrale, la Curia Hostilia (costruita secondo la tradizione dal re Tullo Ostilio), il tempio di Vesta a pianta circolare e altri importanti santuari. I resti attualmente visibili di questi edifici, appartengono però tutti a delle ricostruzioni successive.
+
+Un altro edificio da attribuire all'epoca regia fu il Circo Massimo, le cui prime installazioni in legno, probabilmente in gran parte mobili, risalirebbero all'epoca di Tarquinio Prisco, nella prima metà del VI secolo a.C.[33][34][50]
+Età repubblicana
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Repubblica romana e Secessio plebis.
+
+Espulso dalla città l'ultimo re etrusco, Tarquinio il Superbo, e instaurata una repubblica oligarchica nel 509 a.C., per Roma ebbe inizio un periodo contraddistinto dalle lotte interne tra patrizi e plebei e da continue guerre contro le popolazioni italiche: Etruschi, Latini, Volsci, Equi. Divenuta padrona del Lazio, Roma condusse diverse guerre (contro Galli, Osco-Sanniti e la colonia greca di Taranto, alleatasi con Pirro, re dell'Epiro) che le permisero la conquista della penisola italica, dalla zona centrale fino alla Magna Grecia[51].
+
+Il III e il II secolo a.C. furono caratterizzati dalla conquista romana del Mediterraneo occidentale, dovuta alle tre guerre puniche (264-146 a.C.) combattute contro la città di Cartagine, alla sconfitta dei Galli sul Po e alla conquista di Numanzia nella penisola iberica. Dal 200 al 133 a.C., Roma divenne anche una potenza nel Mediterraneo orientale, combattendo tre guerre macedoniche (212-168 a.C.) contro la Macedonia, una contro Antioco e il regno seleucide, conquistando e distruggendo Corinto (nel 146 a.C.), nonché ereditando il Regno di Pergamo (133 a.C.). L'ammissione dei Romani ai giochi istmici di Corinto del 228 a.C., equivaleva all'entrata di Roma nella società delle nazioni di civiltà greca. Vennero, pertanto, istituite, via via, le prime province romane: la Sicilia, la Sardegna, la Spagna, la Macedonia, la Grecia (Acaia),[52] l'Africa[53].
+
+Nella seconda metà del II secolo e nel I secolo a.C. si registrarono numerose rivolte, congiure, guerre civili e dittature: sono i secoli di Tiberio e Gaio Gracco, di Giugurta, di Quinto Lutazio Catulo, di Gaio Mario, di Lucio Cornelio Silla, di Marco Emilio Lepido, di Spartaco, di Gneo Pompeo, di Marco Licinio Crasso, di Lucio Sergio Catilina, di Marco Tullio Cicerone, di Gaio Giulio Cesare e di Ottaviano[54], che, dopo essere stato membro del secondo triumvirato insieme con Marco Antonio e Lepido, nel 27 a.C. divenne princeps civitatis e gli fu conferito il titolo di Augusto[55].
+Urbanistica
+I sette colli di Roma e il percorso delle "mura serviane" di epoca repubblicana (IV secolo a.C.).
+
+I decenni successivi al 509 a.C. furono caratterizzati da una notevole attività edilizia: tra i santuari sorsero il tempio di Saturno, il tempio dei Castori nel Foro e quello di Cerere alle pendici dell'Aventino. Queste fondazioni dimostrano un innegabile influsso ellenico, testimoniato anche dalle importazioni di ceramica greca, continue fino alla metà del V secolo. A partire dal governo dei decemviri e dalla promulgazione delle leggi delle XII tavole si registrò invece a un periodo di crisi, causata dalla fase più acuta delle lotte tra patrizi e plebei e dalla calata del Volsci, che significò la perdita dei territori nel Lazio meridionale. Un analogo declino venne subìto in tutta la penisola, anche nelle città greche e etrusche. L'unica opera architettonica di qualche rilievo fu la fondazione del Tempio di Apollo in Campo Marzio e la Villa Pubblica, creata per le nuove figure dei censori.
+
+L'area del campo Marzio, a nord ovest della città, sin dall'epoca regia, fu consacrata al dio Marte, e adibita a esercizi militari. Tarquinio il Superbo se ne appropriò e lo fece coltivare a grano. Secondo una leggenda, durante la rivolta che causò la cacciata del re, i covoni di quel grano furono gettati nel fiume dando origine all'Isola Tiberina. Con l'inizio dell'epoca repubblicana, il Campo Marzio ritornò area pubblica e fu riconsacrato al dio. Fu sede dei comitia centuriata, assemblee del popolo in armi.
+
+All'inizio del IV secolo si registrò una ripresa dopo il periodo di oscure lotte con le popolazioni confinanti, culminata con la conquista della città etrusca rivale, Veio, dopo ben dieci anni di assedio e a una guerra durata quasi un secolo. Poco dopo seguì però l'attacco e la conquista da parte dei Galli (390 a.C.).
+
+Dopo la devastante invasione (che spinse verso la decisione non attuata di trasferirsi nella Veio da poco conquistata) si registrò una ripresa. Fu ricostruita la grande cinta muraria in tufo di Grotta Oscura, di cui vediamo oggi i resti, note come "mura serviane". Esse sono in realtà il frutto della ricostruzione del periodo repubblicano lungo lo stesso tracciato, a rinforzo e spesso in sostituzione dell'antico agger, dopo il sacco di Roma del 390 a.C., molto probabilmente utilizzando anche le fortificazioni precedenti.
+
+Secondo Livio furono costruite a partire dal 377 a.C. dai censori Spurio Servilio Prisco e Quinto Clelio Siculo. Riferisce lo storico che, passato lo spavento dovuto al saccheggio da parte dei Galli il 18 luglio 390 a.C., abbandonata l'idea del trasferimento dell'intera popolazione a Veio, si decise una rapida ricostruzione della città, talmente frettolosa e improvvisata che fu la causa principale del caos urbanistico dell'antica Roma[56]. Subito dopo iniziò la costruzione della cinta muraria, che durò oltre 25 anni e costituì il principale baluardo difensivo per sette secoli, sebbene con il tempo abbia perso gradualmente la sua importanza strategica.
+Roma al tempo della battaglia di Azio (31 a.C.), con i suoi principali monumenti, porte e acquedotti
+
+Le mura si estendevano per circa 11 km (quindi un po' più della cinta del VI secolo), includendo circa 426 ettari. Il Campidoglio era già protetto da una fortificazione propria, l'arce (arx capitolina). A questa furono collegati Quirinale, Viminale, Esquilino, Celio, Palatino, Aventino e parte del Foro Boario, sfruttando, dove possibile, le difese naturali dei colli. Nel tratto pianeggiante lungo poco più di un chilometro, tra Quirinale ed Esquilino, furono rafforzate con un aggere, cioè un terrapieno largo più di 30 metri. La cinta romana era all'epoca una della delle più grandi in Italia e forse dell'intero Mediterraneo.
+
+In alcuni tratti le mura erano ulteriormente protette da un fossato largo mediamente più di 30 metri e profondo 9. Erano alte circa 10 metri e spesse circa 4 e, secondo alcune testimonianze, avevano 12 porte, sebbene in realtà se ne conoscano in numero maggiore. Furono restaurate in vari periodi: 353, 217, 212 e 87 a.C.
+
+La città, saccheggiata dagli invasori, venne velocemente ricostruita, e fu a questa rapidità nella ricostruzione che gli storici romani (come Tito Livio) attribuirono l'aspetto disordinato della pianta cittadina. La disordinata urbanistica di quel periodo sembrerebbe derivare dalla rapida e continua crescita progressiva del nucleo urbano, che non seguì alcun piano preordinato, dove gli edifici e le vie si adattavano all'orografia del territorio. In conseguenza si trattò piuttosto un evento di lunga durata, perché se si fosse giunti a una vera e propria ricostruzione si sarebbe certamente seguito un impianto più regolare: negli edifici arcaici e del IV secolo non sono stati individuati importanti rifacimenti o cambiamenti di pianta e orientamento.
+
+All'età repubblicana risale la fondazione di diversi edifici pubblici e templi, soprattutto nell'area del Foro Romano, dei quali sono rimaste conservate le versioni architettoniche successive, del Campidoglio e del Palatino. Sempre in quegli anni si tracciarono le prime strade consolari, i rispettivi ponti sul Tevere e i primi acquedotti (come quello voluto dal censore Appio Claudio Cieco nel 312 a.C.).
+
+Solo a partire dal III secolo a.C. si andarono sviluppando le prime trasformazioni monumentali inserite in piani urbanistici coerenti, ad esempio il complesso di templi repubblicani dell'area sacra di Largo Argentina, costruiti separatamente e unificati dall'inserimento in un grande portico.
+Le mura serviane presso la stazione Termini.
+
+Nacquero contemporaneamente i modelli architettonici della basilica civile e dell'arco onorario. Per la prima volta venne applicata la tecnica edilizia del cementizio, che consentì all'architettura romana di avere un suo originale sviluppo, e iniziò l'importazione del marmo come ornamento degli edifici. Forte era l'influenza della Magna Grecia, con artisti ellenici a Roma dall'inizio del V secolo e l'accentuarsi del livello culturale medio dei romani. Il primo tempio interamente in marmo, fortemente influenzato dalle forme greche, fu il tempio rotondo del Foro Boario. Nacquero in città fabbriche di ceramica di alto livello, che vengono esportate un po' ovunque nel Mediterraneo occidentale. Si diffuse la tecnica per realizzare statue in bronzo: dalle statue di Alcibiade e Pitagora ricordate nella seconda metà del IV secolo nel Comizio, opera di artisti della Magna Grecia, alla quadriga in bronzo nel tempio di Giove Capitolino del 296 a.C., che sostituì una quadriga in terracotta dell'etrusco Vulca, dalle due statue colossali di Ercole e Giove nell'Area Capitolina, al celebre Bruto capitolino. Gli scrittori greci parlano ormai spesso di Roma, anzi uno di loro arriva a definirla "città greca".[57]
+
+Negli ultimi due secoli della Repubblica i personaggi che conquistavano grande prestigio personale e si contendevano il potere iniziarono a sviluppare progetti urbanistici di respiro sempre più ampio, per assicurarsi l'appoggio delle masse popolari, a partire dai grandi portici della zona del Circo Flaminio, al Tabularium di Silla, che tuttora fa da sfondo al Foro Romano verso il Campidoglio, insieme al restauro del tempio capitolino. Pompeo lasciò la sua testimonianza nella città con la costruzione di un grande teatro in muratura. L'aspetto monumentale iniziò a svilupparsi anche in altre zone della città, come il Foro Olitorio e il Foro Aventino. Nel frattempo si svilupparono i grandi quartieri popolari, grazie all'immigrazione anche dalle città italiche, con le insulae, case d'affitto a più piani. Una descrizione di Roma alla vigilia dell'impero si legge in Strabone: accanto a zone ancora libere sorge una serie ininterrotta di edifici pubblici, templi, teatri, portici, terme e un anfiteatro. A ciò va aggiunta la spinta privata all'edilizia, come le domus (le case dei più ricchi), assimilabili ormai alle più lussuose dimore ellenistiche, con il cortile colonnato (peristilio) e decorazioni sempre più sfarzose (pavimenti marmorei, pitture parietali, mosaici, soffitti dorati, ecc.). Resti di abitazioni monumentali del genere sono stati scoperti soprattutto sul Palatino e sull'Esquilino.
+
+Giulio Cesare, secondo quanto ci tramanda Cicerone, aveva in progetto un rinnovo totale dell'aspetto di Roma, con un grandioso piano regolatore che prevedeva interventi in più zone, soprattutto in Campo Marzio e a Trastevere. Era addirittura prevista una deviazione del Tevere, per spianare le anse del Campo Marzio e unirlo con una parte dell'Ager Vaticanus. La sua morte, avvenuta non lontano dal luogo dove oggi si trova il teatro Argentina, non permise la realizzazione di questi progetti, ma fece in tempo a distruggere il Comizio, ricostruire la Curia, sede del Senato, creare una nuova piazza a suo nome, il Foro di Cesare,[58] una basilica e i nuovi rostri, definendo l'aspetto e il nuovo orientamento del Foro repubblicano. Inoltre il Foro di Cesare fece da esempio per i successivi sviluppi dei Fori imperiali.
+Archeologia dei principali edifici
+
+Primo periodo repubblicano: Roma e l'Italia (509-264 a.C.)
+
+Ricostruzione della posizione dei tre templi del Foro Olitorio. Si può notare anche la sagoma del teatro di Marcello di età augustea.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Storia della Repubblica romana (509-264 a.C.).
+
+L'attività religiosa a Roma in quel periodo si intensificò notevolmente, come testimoniano le fonti, elencando la costruzione di numerosi templi (oggi quasi tutti scomparsi), come il tempio di Saturno al Foro (501-498 a.C.); il tempio di Mercurio (495 a.C.); l'ara massima di Ercole invitto (495 a.C.); il tempio di Cerere, Libero e Libera sull'Aventino (493 a.C.), il tempio dei Dioscuri al Foro (484 a.C.); il tempio del Dius Fidius (466 a.C.); il tempio di Apollo in circo (431 a.C.); il tempio di Giunone Regina sull'Aventino (392 a.C.); il tempio di Marte fuori Porta Capena (388 a.C.); il tempio della Concordia (366 a.C.); il tempio di Giunone Moneta (344 a.C.); il tempio della Salus (306-303 a.C.); il probabile tempio di Feronia ("tempio C di largo di Torre Argentina) (IV secolo a.C.); il tempio di Venere al Circo Massimo (293 a.C.); il tempio di Esculapio sull'Isola Tiberina (291 a.C.) e il tempio della Bona Dea (272 a.C. ca.).[59]
+
+Risalirebbe al 329 a.C. la costruzione dei primi carceres del Circo Massimo, che diedero così il definitivo aspetto architettonico dell'impianto. Pochi anni più tardi (nel 312 a.C.), fu la volta della costruzione della prima strada romana (Via Appia) e del primo acquedotto di Roma (Acquedotto Appio).[60] Un trentennio più tardi (tra il 272 e il 269 a.C.), il censore Manio Curio Dentato fece costruire un secondo acquedotto, l'Anio vetus.
+
+Media Repubblica: l'Impero mediterraneo (264-146 a.C.)
+
+Ricostruzione ideale del Tempio di Giunone Regina (179 a.C.), del tempio di Giove Statore (146 a.C.) e del successivo portico di Ottavia (del 27-23 a.C.) che racchiudeva entrambi gli edifici sacri.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Storia della Repubblica romana (264-146 a.C.), Prima guerra punica, Seconda guerra punica e Terza guerra punica.
+
+L'inizio dell'espansione nel Mediterraneo e la prima guerra punica portarono alla costruzione di nuovi siti religiosi come: il tempio di Spes (258 a.C.); il probabile tempio di Giuturna ("tempio A" di largo di Torre Argentina) (241 a.C.); il tempio di Giunone Sospita nel foro Olitorio (194 a.C.); il tempio di Veiove (192 a.C.) e il probabile tempio dei Lari Permarini (179 a.C.). Ciascuno era dotato poi dalle sue statue di culto, alle quali vanno aggiunte altre numerose statue, per la maggior parte in bronzo, che decoravano la città (tutte scomparse).
+
+Risalirebbe al 241 a.C. la costruzione del cosiddetto ponte Rotto, rifatto in muratura per la prima volta a Roma nel 179 a.C.; al 221 a.C. la costruzione del secondo circo di Roma, il Circo Flaminio; al 207 a.C. la prima menzione del ponte Milvio (a quell'epoca, sembra ancora in legno); al 184 a.C., della prima basilica, la Porcia, fatta edificare da Catone il censore durante la sua censura, sull'angolo nord del Foro Romano, tra la Curia e l'Atrium Libertatis sede dei censori e centro di intensa attività economica; al 179 a.C., la seconda (basilica Fulvia-Aemilia), iniziata dal censore Marco Fulvio Nobiliore (morto prematuramente) e completata dal collega Marco Emilio Lepido; al 170 a.C., la terza (basilica Sempronia), sul lato nord-orientale della piazza del Foro Romano, alle spalle delle tabernae veteres, a opera del censore Tiberio Sempronio Gracco.
+
+Sappiamo da Livio che nel 213 a.C. un terribile incendio, che durò per due notti e un giorno, distrusse tutti gli edifici tra le Saline e la Porta Carmentale, insieme con l'Equimelio e il vicus Iugarius. Nei templi della Fortuna, della Mater Matuta e della Speranza, il fuoco distrusse molte costruzioni sacre e profane.[61]
+
+Dopo la vittoria contro Antioco III (188 a.C.) la quantità di opere greche a Roma era così consistente che Livio scrisse: "[fu] la fine dei simulacri di legno e di terracotta nei templi di Roma, sostituiti da opere d'arte importate".[62] I primi edifici in marmo bianco di Roma furono due piccole costruzioni, un debutto per certi versi "timido": il tempio di Giove Statore e il tempio di Giunone Regina, racchiusi da un porticato, uno dei quali fu opera proprio di Ermodoro di Salamina, le cui statue di divinità furono scolpiti da scultori provenienti da Delos e da un artista italico, che si ispirò a un modello ellenico del IV secolo a.C.
+
+Tarda Repubblica:la caduta (146-31 a.C.)
+
+Pianta dell'area sacra di Largo di Torre Argentina. In rosso i templi (A, B, C, D), 1 è la porticus Minucia, 2 è l'Hecatostylum, 3 è la curia di Pompeo, 4 e 5 sono le latrine di epoca imperiale, 6 sono gli uffici e depositi di epoca imperiale.
+Alzato dei templi che mostra il diverso livello del calpestio: 1) III secolo a.C., 2) 111-101 a.C., 3) 80
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Storia della Repubblica romana (146-31 a.C.).
+
+Al termine della quarta guerra macedonica (culminata nella distruzione di Corinto), l'architetto ellenico Ermodoro di Salamina, costruì nel 136 a.C. un tempio in Campo Marzio, che conteneva una statua di Marte colossale, opera attribuita a Skopas minore, e una di Afrodite. Tra i resti meglio conservati di quella stagione ci sono i primi due templi costruiti in marmo a Roma: il tempio di Giove Statore (costruito nel 146 a.C.) e il tempio di Ercole Vincitore nel foro Boario (databile al 120 a.C.). La zona di Largo di Torre Argentina è stata identificata grazie alla presenza della porticus Minucia vetus, edificato nel 106 a.C. da Marco Minucio Rufo per il trionfo sugli Scordisci. La porticus è riconoscibile nei colonnati sul lato nord e est della piazza, che non vennero mai rifatti in epoca imperiale. I resti dei quattro templi sono designati con le lettere A, B, C e D (da quello più a nord a quello più a sud) in quanto non è determinato con certezza a chi fossero dedicati, e sorgono davanti a una strada pavimentata, ricostruita in epoca imperiale dopo l'incendio dell'80, poco dopo l'ampliamento anche della Porticus Minucia (Frumentaria), che arrivò a inglobare tutta l'area. In ordine di antichità i templi sono: C IV-III secolo a.C.; A III secolo a.C., rifatto nel I secolo a.C.; D inizio del II secolo a.C., rifatto nel I secolo a.C.; B fine II-inizio del I secolo a.C. Una totale trasformazione si ebbe quando il piano del calpestio venne sopraelevato di circa 1,40 m, probabilmente in seguito a un incendio come quello del 111 a.C. In quell'occasione venne creato un pavimento unico di tufo per i tre templi e si procedette forse alla recinzione con un portico colonnato del quale restano tracce sui lati nord e ovest.
+
+Risalirebbe al 144-140 a.C. la costruzione del terzo acquedotto di Roma (Aqua Tepula) e al 125 a.C. del quarto (Aqua Tepula). Nel 121 a.C. fu aggiunta una nuova basilica, l'basilica Opimia, nel Foro romano, accanto al tempio della Concordia. Doveva il suo nome a Lucio Opimio che ne aveva finanziato la costruzione, così come quella del vicino tempio.
+
+Al tempo di Silla le strutture lignee con rivestimento in terracotta di matrice etrusca, o quelle in tufo stuccato lasciarono definitivamente il passo agli edifici in travertino o in altre pietre calcaree, secondo forme desunte dall'architettura ellenistica, ma adattate a un gusto più semplice con forme più modeste. Al tempo di Ermodoro e delle guerre macedoniche erano sorti i primi edifici in marmo a Roma, che non si distinguevano certo per grandiosità. Lucio Licinio Crasso, parente del più famoso Marco Licinio Crasso, era stato poi il primo a usare il marmo anche nella decorazione della propria abitazione privata sul Palatino nel 100 a.C.
+Ricostruzione ideale dell'area del Tabularium (sullo sfondo)
+
+Dopo l'incendio dell'83 a.C. venne ricostruito interamente e in pietra, il tempio di Giove Capitolino, con colonne marmoree e con un nuovo simulacro crisoelefantino di Giove, forse opera da Apollonio di Nestore. Il tempio era stato, infatti, quasi totalmente distrutto dall'incendio e con esso i Libri sibillini, che vi erano conservati[63]. La ricostruzione in pietra, voluta da Lucio Cornelio Silla, fu affidata a Quinto Lutazio Catulo che la terminò nel 69 a.C., conservando fedelmente la pianta e l'aspetto precedenti: secondo alcune fonti Silla fece prelevare per questa ricostruzione le colonne del tempio di Zeus Olimpico a Atene. Risale al 78 a.C. la costruzione del Tabularium, quinta scenografica del Foro Romano che lo metteva in comunicazione col Campidoglio e fungeva da archivio statale. Vi si usarono semicolonne addossate sui pilastri dai quali partono gli archi, schema usato anche nel santuario di Ercole Vincitore a Tivoli. E sempre a questo periodo risalirebbe la costruzione del tempio di Portuno (80-70 a.C.).[64]
+
+I templi romani sillani sopravvissuti sono piuttosto modesti: tempio di San Nicola in Carcere, tempio B del Largo Argentina.
+Il Foro romano all'epoca di Gaio Giulio Cesare.
+Disegno ricostruttivo della facciata della Basilica Emilia.[65]
+
+Al tempo di Gneo Pompeo Magno e Cesare si ebbe la costruzione del teatro di Pompeo (databile agli anni 61-55 a.C.), del sontuoso foro di Cesare con il tempio di Venere Genitrice (dal 54 al 46 a.C.), della Basilica Giulia (in sostituzione della precedente basilica Sempronia) e della nuova Curia (dal 52 al 29 a.C.) nel Foro romano; ma fu solo col restauro del tempio di Apollo Sosiano nel 32 a.C. che Roma ebbe per la prima volta un edificio di culto all'altezza dell'eleganza ellenistica. Nel 33 a.C. Roma fu dotata di un nuovo acquedotto, l'aqua Iulia, fortemente voluto da Ottaviano e la cui direzione dei lavori fu affidata al fedele amico Marco Vipsanio Agrippa.
+
+Una nuova basilica in sostituzione della basilica Fulvia era in corso di costruzione nel 55 a.C. a opera di Lucio Emilio Lepido Paolo (un altro figlio del console del 78 a.C. Marco Emilio Lepido e fratello del triumviro), ma finanziata da Cesare. Fu inaugurata dal figlio omonimo di Lepido nel 34 a.C. con il nome di Basilica Paulli. Risalirebbero poi al 62 a.C. la costruzione del ponte Fabricio e al 60 a.C. il ponte Cestio; al 43 a.C. il tempio di Iside al Campo Marzio.[66]
+
+Si deve invece a Lucio Licinio Lucullo la costruzione dell'omonima villa sull'attuale Pincio, a sinistra di Trinità dei Monti, che faceva parte della VII regio augustea. La posizione del complesso ci è stata tramandata con precisione da Frontino: la villa sorgeva nel punto dove l'Acqua Vergine usciva dal condotto sotterraneo, per essere incanalata sulle arcate che attraversavano il Campo Marzio. Del vasto complesso, costruito grazie all'immenso bottino realizzato con la vittoria su Mitridate nel 63 a.C., restano solo pochi resti visibili nei sotterranei del convento del Sacro Cuore; le strutture in opera reticolata e opera mista appartengono alla tarda repubblica. Del complesso esiste anche una mappa di Pirro Ligorio. L'edificio e gli horti occupavano le pendici della collina con una serie di terrazze, collegate da scalinate monumentali.[67]
+Età imperiale
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Impero romano.
+Alto Impero
+Statua del primo imperatore romano, Augusto, proveniente da Prima Porta.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Alto Impero romano.
+
+Istituito de facto l'Impero, che conobbe la sua massima espansione nel II secolo, sotto l'imperatore Traiano, Roma si confermò caput mundi, cioè capitale del mondo, espressione che le era stata attribuita già nel periodo repubblicano. Il territorio dell'impero, infatti, spaziava dall'Oceano Atlantico al Golfo Persico[68], dalla parte centro-settentrionale della Britannia all'Egitto.
+
+I primi secoli dell'impero, in cui governarono, oltre a Ottaviano Augusto, gli imperatori delle dinastie Giulio-Claudia[69], Flavia (a cui si deve la costruzione dell'omonimo anfiteatro, noto come Colosseo)[70] e gli Antonini[71], furono caratterizzati anche dalla diffusione della religione cristiana, predicata in Giudea da Gesù Cristo nella prima metà del I secolo (sotto Tiberio) e divulgata dai suoi apostoli in gran parte dell'impero[72].
+
+Fu Adriano a scegliere come successore, adottandolo, Tito Antonino (dopo la morte prematura di Elio Cesare), il quale era stato proconsole in Asia e che ricevette poi dal senato il titolo di Pio. Quando Antonino scomparve nel 161 la sua successione era già stata predisposta con l'adozione del genero Marco Aurelio Antonino, già indicato da Adriano stesso.
+
+Marco Aurelio, che era stato educato a Roma secondo una cultura raffinata e bilingue (di sua mano è un trattato di meditazioni filosofiche in greco), volle dividere il potere col genero, di nove anni minore, Lucio Vero, già adottato da Antonino Pio. Con lui instaurò una diarchia, dividendo il potere e affidandogli il comando militare nelle campagne in Parthia e in Armenia. Nel 169 Lucio morì e Marco Aurelio rimase l'unico sovrano. Scomparve nel 180 durante l'epidemia di peste scoppiata nel campo militare di Carnuntum, vicino l'attuale Vienna (Vindobona), durante le dure lotte contro i Quadi e i Marcomanni. Il principe-filosofo, che aveva cercato, ispirandosi ad Adriano, di presentarsi come un imperatore saggio e amante della pace, aveva paradossalmente trascorso tutti gli ultimi anni di governo in dure campagne militari, nell'affannoso compito di riportare la sicurezza nei confini dell'impero. Gli successe il figlio Commodo, che cercò di imporre un'autocrazia ellenizzante. Commodo, era stato associato al potere col padre Marco Aurelio nel 177. Con lui si concluse il periodo degli imperatori adottivi, anche se non c'era mai stato un preciso schema istituzionale dietro le adozioni e forse erano solo divenute indispensabili per la mancanza di eredi naturali ai sovrani del II secolo.
+
+Il governo di Commodo fu per molti versi irresponsabile e demagogico. Dopo aver condotto una pace frettolosa con le tribù germaniche, contro le quali stava lottando al momento della morte del padre, tornò velocemente a Roma. Qui cercò di aumentare il proprio prestigio personale e la propria popolarità con una serie di iniziative discutibili, come le frequenti elargizioni pubbliche di denaro e di altri beni, i costosi spettacoli gladiatori, ecc., che dissanguarono in breve tempo le casse dello Stato. Egli cercò inoltre di imporre un'autarchia sul modello ellenistico-orientale, ammantando la propria personalità di significati religiosi (facendosi identificare col dio Ercole).
+
+Sembrò ignorare i pericoli che si addensavano ai confini dell'impero e quando venne eliminato da una congiura di palazzo (nel 192), lo Stato romano entrò in una profonda crisi per la successione, che viene spesso indicata come l'inizio della parabola discendente del dominio di Roma. Nonostante le prime avvisaglie della crisi, il periodo degli Antonini venne ricordato come un'epoca aurea, di benessere e giustizia rispetto alla grave crisi dei secoli successivi.
+
+Settimio Severo fu il primo imperatore "militare" (e della dinastia dei Severi), poiché salito al potere grazie esclusivamente all'appoggio delle sue legioni, sconfiggendo gli altri pretendenti appoggiati da altre divisioni dell'esercito e imponendo la sua figura al senato, che non poté fare altro che ratificare la sua carica. Il 9 giugno 193 entrò dunque vittorioso in Roma. Con queste premesse le successioni si svolsero da allora in poi quasi sempre in un clima di sovvertimento e di anarchia, con lotte molto spesso armate fra i contendenti e l'arrivo al potere talvolta anche di avventurieri senza scrupoli. La tradizione amministrativa e burocratica statale, corrotta dai favoritismi personali, si andò progressivamente allentando, accentuando la situazione di crisi.
+
+Le contraddizioni interne, aggravate dall'urgenza dei problemi alle frontiere, minacciarono l'autorità imperiale e la sopravvivenza della società e degli assetti tradizionali precedenti, che ne uscirono profondamente sconvolti. La gran parte degli imperatori di questo periodo non fu niente più che una meteora, bloccando di fatto la possibilità di legiferare in maniera continuativa, visto il ridimensionamento di peso del Senato e la tendenza degli imperatori a accentrare nelle proprie mani tutti i poteri considerandosi autocraticamente al di sopra di qualsiasi legge. L'esercito divenne il principale strumento della politica, fautore della fortuna di ciascun imperatore, che per questo ne diveniva "schiavo", dovendo cedere a tutte le richieste dei militari per non soccombere. La prodigalità verso le truppe aggravò ulteriormente le casse dello Stato, già impoverite dall'economia stagnante, regredita in alcune aree a livello di sussistenza (soprattutto nelle province occidentali dove particolarmente frequenti furono le incursioni nemiche). A ciò va aggiunta la penuria di schiavi, per mancanza di guerre di conquista, e la tassazione più forte, resa necessaria per far fronte alle richieste delle legioni e alle necessità per far funzionare l'apparato statale. La moneta si svalutò pesantemente, tanto che Settimio Severo dovette dare impulso alle distribuzioni in natura istituendo l'annona militare, quota fissa dei raccolti (indipendentemente dalla quantità dei raccolti) da destinare allo Stato.
+
+Sotto Settimio Severo e poi Caracalla ed Eliogabalo avvenne una forte orientalizzazione della vita romana, con l'introduzione, tra l'altro, di culti misterici e orgiastici, che sfruttavano le esigenze di evasione mistica e irrazionale dal presente allora molto sentite e già coalizzate dallo stoicismo e dal Cristianesimo, seppure con un'attitudine meno elitaria.
+
+Nel III secolo, al termine della dinastia dei Severi[73] (193-235), iniziò la crisi del principato, cui seguì un periodo di anarchia militare (235-284).
+Urbanistica
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: 14 regioni di Roma augustea.
+
+Planrome2b.png
+Principali monumenti di
+Roma antica
+Mausoleo di Adriano
+Castra Praetoria
+Mura serviane
+Terme dioclezianee
+Terme costantiniane
+Circo di Nerone
+Stadio Domiziano
+Colonna Aureliana
+Pantheon
+Campo Marzio
+Fori Imperiali
+T.Giove O.M.
+Foro Romano
+Terme traianee
+Terme di Tito
+Colosseo
+Naumachia Augusti
+Circo Massimo
+Tempio di Claudio
+Teatro di Pompeo
+Teatro di Marcello
+Terme di Caracalla
+Palazzi imperiali
+Mura aureliane
+Mura aureliane
+Emporium
+Anfiteatro castrense
+
+
+
+
+Il maggiore sviluppo urbanistico e monumentale si ebbe nell'età imperiale. Con Augusto la città, subì una radicale trasformazione urbanistica. Augusto si poteva vantare di aver trovata un Roma "di terracotta" e di averla lasciata "di marmo". In effetti fu in quest'epoca che Roma assunse l'aspetto simile a quello delle più importanti città ellenistiche. Roma che aveva ormai una popolazione di circa un milione di abitanti[74] venne divisa in 14 regioni (a loro volta suddivisi in vici, quartieri),[75] i cui nomi tuttora si perpetuano nella forma contratta di "rioni". Furono inizialmente contrassegnate solo da un numero, ma successivamente ciascuna ebbe anche un suo nome, dato probabilmente dall'uso. Le regioni erano a loro volta suddivise in vici, ossia singoli quartieri. E sempre sotto Augusto venne istituito il corpo dei vigiles, con compiti di vigili del fuoco e polizia urbana,[1][75] e vennero delimitate le rive e l'alveo del Tevere, con la creazione di nuovi acquedotti. Oltre a ciò, onde evitare i danni dei frequenti incendi, sempre Augusto intervenne riducendo l'altezza delle nuove costruzioni, proibendo di edificare lungo le vie pubbliche a un'altezza superiore ai 70 piedi.[1]
+
+Si completarono alcuni degli interventi di Cesare e si avviarono nuovi grandi progetti urbanistici, che sebbene non avessero la grandiosità e la radicalità di quelli cesariani, si raccordarono direttamente a essi, a partire dalla costruzione di un nuovo Foro, quello di Augusto,[58] e dalla regolarizzazione della piazza del Foro Romano con la costruzione del tempio del Divo Giulio e della basilica Giulia e il rifacimento della basilica Emilia. L'antica sede della vita politica cittadina diventava così una piazza monumentale acquistando il suo aspetto definitivo.
+
+Con l'aiuto di Agrippa, suo amico e consigliere, Augusto si occupò anche della sistemazione del Campo Marzio, che si andò arricchendo di edifici pubblici e monumenti. Nella zona più periferica venne costruito il suo mausoleo al quale erano inoltre simbolicamente collegati un grande orologio solare, che usava un obelisco come gnomone, e l'Ara Pacis. Le Terme di Agrippa furono le prime terme pubbliche della città.
+
+Nell'area del Circo Flaminio venne costruito il teatro dedicato al nipote Marcello, in prossimità del ricostruito Portico di Ottavia, dedicato in nome della sorella Ottavia, madre di Marcello, e del tempio di Apollo Sosiano. A queste opere va aggiunto un teatro, le biblioteche aperte al pubblico e il restauro o la costruzione di ben 82 santuari: Augusto affermò di aver trovato una città di mattoni e di lasciarla di marmo. Strabone, che scriveva al tempo di Augusto-Tiberio, sosteneva vi fosse la necessità della costruzione di una seconda cerchia di mura, poiché quelle serviane non erano più sufficienti a contenere la città del suo tempo.[1]
+
+La monumentalizzazione della città proseguì sotto i successori di Augusto. Nel 64, sotto il regno di Nerone uno spaventoso incendio quasi rase al suolo l'intera città, distruggendo interamente tre delle zone augustee e danneggiandone gravemente sette, lasciandone integre solo quattro. Per favorire un'ordinata ricostruzione e impedire le condizioni che favorivano il diffondersi degli incendi, Nerone dettò nuove e lungimiranti regole edilizie, destinate a frenare gli eccessi della speculazione e tracciare un nuovo impianto urbanistico, sul quale è tuttora fondata la città. Venne così emanato un nuovo piano regolatore, attuato però solo in parte, come riporta Tacito, tramite la realizzazione di strade più larghe, affiancate da portici, senza pareti in comune tra gli edifici, di altezza limitata e con un uso quasi bandito di materiali infiammabili, sostituiti da pietra e mattoni. Vennero aperte nuove piazze, le strade divennero più ampie e fiancheggiate da portici, le abitazioni vennero ricostruite di altezza più limitata.
+
+Approfittando della distruzione, Nerone costruì la sua Domus Aurea, che occupò gli spazi compresi tra Celio, Esquilino (Oppio) e Palatino con un'enorme villa, segno tangibile delle mire autocratiche dell'imperatore. Altri edifici pubblici neroniani furono il mercato del Celio (Macellum Magnum) e le Terme di Nerone del Campo Marzio, la cui pianta regolare e simmetrica fece da modello per tutti gli edifici termali futuri, inaugurando la tipologia di terme "imperiali".
+Pianta del centro monumentale di Roma antica in epoca imperiale
+Fori Imperiali e Foro romano.
+
+Dopo la morte di Nerone, gli imperatori flavi, restituirono a uso pubblico parte degli spazi occupati dalla sua residenza, costruendo le terme di Tito sul colle Oppio (forse adattate dalle terme private di Nerone), restituendo il tempio del Divo Claudio, già trasformato in ninfeo, e innalzando il Colosseo, sul sito del lago artificiale dei giardini. Venne tenuto per uso privato solo il breve settore della Domus Titi.
+
+Lo sviluppo architettonico nell'età flavia ebbe un'importanza fondamentale per la messa in opera di tecniche nuove, capaci di portare a un ulteriore sviluppo delle articolazioni spaziali. Già al tempo di Nerone vennero sperimentate nuove soluzioni, come la sala ottagonale della Domus Aurea, influenzata da modelli siriaci a base poligonale. Ma è soprattutto in questo periodo che si diffondono l'uso della cupola emisferica (Domus Transitoria e Domus Aurea), lo sviluppo delle volte a crociera (Colosseo), l'utilizzo di nervature con archi in laterizio in serie e lo sviluppo delle volte a botte, che arrivano a raggiungere i 33 metri di diametro nel vestibolo domizianeo del Foro Romano.
+
+E sempre sotto i Flavi ebbero luogo altri incendi, come l'incendio del Campidoglio del 69[76] e quello del Campo Marzio e Campidoglio dell'80. Nel 73 Vespasiano e Tito si presero una magistratura repubblicana ormai quasi dimenticata, quella di censore, con l'obiettivo di ampliare pomerium (il confine sacro della città) e iniziare una generale ristrutturazione urbanistica.
+
+«Essendo la città di Roma deturpata da rovine e da antichi incendi, acconsentì a chiunque di costruire nelle aree vuote, qualora i proprietari non lo avessero fatto prima.»
+(Svetonio, Vita di Vespasiano 8.)
+
+Individuati poi nuovi punti focali oltre alle già consolidate zone dei Fori imperiali e del Campo Marzio, si intraprese la monumentalizzazione anche del colle Palatino (primo nucleo arcaico di Roma, già area di residenze patrizie repubblicane), destinato a divenire la zona per le residenze degli imperatori ("Domus Flavia" e "Domus Augustana").
+
+Domiziano proseguì l'opera dei suoi predecessori, ricostruendo integralmente, dopo l'incendio dell'80 il Campidoglio e il Campo Marzio. Tra i nuovi edifici fece costruire il Foro Transitorio (poi inaugurato da Nerva, dal quale prese anche il nome), l'arco di Tito, il Tempio di Vespasiano e Tito, lo Stadio di Domiziano, oggi ricalcato da piazza Navona, l'Odeon di Domiziano e la Porticus Divorum.
+
+Sotto Traiano si registrò la massima espansione dell'Impero romano e entro il II secolo Roma raggiunse la massima espansione demografica. L'imperatore completò la serie dei Fori Imperiali con la grande piazza del Foro di Traiano (il foro imperiale più grande, che dovette richiedere la distruzione di numerosi edifici tra Quirinale e Campidoglio, come il venerando Atrium Libertatis), nel quale venne collocata la celebre Colonna coclide e il contiguo complesso dei Mercati di Traiano. Vennero inoltre costruite le terme sul colle Oppio, le prime nelle quali si riscontra definitivamente il tipo che venne poi ripreso dalle terme di Caracalla e di Diocleziano.
+
+Ad Adriano e Antonino Pio si deve il picco dell'attività edilizia. Dal 123 si registra l'uso di indicare sul mattoni la data consolare, segno di un'attività delle fornaci particolarmente intensa. Ad Adriano e ai suoi immediati successori si devono il Pantheon nel suo attuale aspetto e la costruzione di un Mausoleo, oggi trasformato in Castel Sant'Angelo, il tempio di Adriano, inserito più tardi nel palazzo della Borsa, il tempio di Antonino e Faustina nel Foro Romano, la Colonna antonina, dedicata a Antonino Pio e Faustina. La Villa Adriana fu una vera e propria reggia suburbana. Ma ancora più importante fu la costruzione di interi quartieri con insulae a più piani, come nella VII regione a est della Via Lata: l'idea dell'aspetto di queste zone si può avere dagli scavi di Ostia antica, presso l'antico porto di Roma.
+
+Dopo l'incendio del 191, sotto Commodo, iniziò una nuova fase di lavori, curati dalla dinastia dei Severi: fu ricostruito il Tempio della Pace, gli Horrea Piperiana, il Portico di Ottavia; si aggiunse un'ala al palazzo imperiale sul Palatino, con una nuova facciata monumentale verso la Via Appia, il Septizodium; furono innalzati l'arco di Settimio Severo e le terme di Caracalla, l'edificio più imponente e tra i meglio conservati della Roma imperiale. Sempre all'epoca di Caracalla venne costruito quello che forse era il tempio più grandioso della città, il Serapeo sul Quirinale. La pianta marmorea incisa sotto Settimio Severo su un muro del Foro della Pace e in parte pervenutaci ci dà una rappresentazione planimetrica della Roma di quegli anni.
+
+Nel corso del III secolo, quando per la grande crisi politica e militare gli imperatori non furono quasi mai presenti nella capitale dell'impero, l'attività edilizia rallentò fino ad arrestarsi quasi del tutto. Sintomo del declino fu la fine dell'uso di bollare i mattoni con la data consolare, dalla morte di Caracalla con una parentesi di breve ripresa durante il regno di Diocleziano. Tra gli edifici costruiti nel II secolo ci furono il Tempio di Eliogabalo, sul Palatino, e il Tempio del Sole sul Campo Marzio, voluto da Aureliano. L'opera più importante fu tuttavia la costruzione delle mura aureliane, chiara testimonianza dei tempi, volute dall'imperatore Aureliano a partire dal 272: dopo secoli infatti si temeva nuovamente per la sicurezza della città, segno di una consapevole debolezza militare. Le mura furono successivamente rialzate e rafforzate più volte fino a raggiungere l'attuale e monumentale aspetto.
+Archeologia dei principali edifici: da Augusto ad Adriano (27 a.C.-138 d.C.)
+
+Periodo augusteo e giulio-claudio (27 a.C.-68 d.C.)
+
+Modellino con ricostruzione ideale del foro di Augusto.
+Modello di Roma, raffigurante in primo piano il teatro di Marcello e in secondo piano il teatro di Balbo con a fianco la Crypta Balbi.
+Parco degli Acquedotti: le arcuate di sostegno per il doppio condotto dell'Acquedotto Claudio (canale inferiore) e dell'Acquedotto Anio novus (canale superiore), nel cosiddetto Parco degli Acquedotti.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Arte augustea e dinastia giulio-claudia.
+
+Nel periodo augusteo e successivo, si nota un irrobustirsi di tutti quegli edifici privi dell'influenza del tempio greco: archi trionfali, terme, anfiteatri o lo stesso mausoleo di Augusto a Roma. Nell'arco partico del Foro Romano, eretto da Augusto verso il 20 a.C. si vede la nascita dell'arco a tre fornici, anche se la suddivisione risponde a passaggio di due marciapiedi laterali, se le parti laterali non sono ancora unite in un unico complesso formale e vi si riscontrano elementi locali (l'arco centrale) e ellenistici (le edicole). Svetonio racconta:
+
+«Roma non era all'altezza della grandiosità dell'Impero (al tempo di Augusto) ed era esposta alle inondazioni e agli incendi, ma egli l'abbellì a tal punto che giustamente si vantò di lasciare di marmo la città che aveva trovato fatta di mattoni. Oltre a questo la rese sicura anche per il futuro, per quanto poté provvedere per i posteri.»
+(Svetonio, Augustus, 28.)
+
+A questo periodo Risalgono a questo periodo i più spettacolari edifici per gli spettacoli come il teatro di Marcello (11 a.C.). Il gusto scenografico ellenistico venne assimilato dagli architetti romani e sviluppato ulteriormente, portando l'architettura a nuovi vertici in maniera più rilevante e precoce delle altre arti. Numerosi altri edifici furono poi costruiti o restaurati durante il suo principato:
+
+«[…] spesso esortò anche i privati affinché, ognuno secondo le proprie possibilità, adornasse la città con nuovi templi oppure restaurando e arricchendo quelli già esistenti.»
+(Svetonio, Augustus, 29.)
+
+    la ristrutturazione della Curia (sede del senato) e del Tempio di Giove Ottimo Massimo sul Campidoglio, dove depose un bottino composto da sedicimila libbre d'oro, con pietre preziose e perle per un valore di cinquanta milioni di sesterzi;[75]
+    la costruzione di un nuovo foro accanto a quello di Gaio Giulio Cesare (il Foro di Augusto), che includeva anche il tempio di Marte Ultore;[77]
+    numerosi nuovi templi, come quelli dedicati ad Apollo sul Palatino[77] (con la vicina biblioteca Apollinis, greca e latina[77]) e al padre adottivo, il Divo Giulio, oltre al Pantheon costruito tra il 27-25 a.C.), al Teatro di Marcello[77] (terminato nell'11 a.C.), alle Terme di Agrippa,[77] agli acquedotti Aqua Iulia (costruito da Marco Vipsanio Agrippa nel 33 a.C.), Aqua Virgo (del 19 a.C.) e Aqua Alsietina (del 2 a.C.), ad un nuovo ponte sul Tevere fatto costruire da Agrippa;[77]
+    la ricostruzione della Basilica Giulia (dedicata ai nipoti Gaio e Lucio[77]) nel 12 d.C., ora ampliata dopo un incendio;
+    alcuni portici, uno dedicato alla moglie Livia ed un secondo alla sorella Ottavia;[77]
+    il permesso di costruire a privati, come il primo anfiteatro in pietra a Statilio Tauro, il Teatro di Balbo, il Tempio di Ercole delle Muse a Lucio Marcio Filippo, il tempio di Diana a Lucio Cornificio, l'atrio delle libertà a Gaio Asinio Pollione e il tempio di Saturno a Lucio Munazio Planco;[77]
+    i monumenti celebrativi come l'Ara Pacis (a fianco dell'immensa meridiana del campo Marzio), un arco trionfale nel Foro romano, un altro arco trionfale dedicato ai nipoti Gaio e Lucio Cesari,[77] i rostri apposti nel Foro romano dopo la vittoria su Marco Antonio nella battaglia di Azio, un Mausoleo, due enormi obelischi egiziani;
+    il tempio di Giove Tonante sul Campidoglio;[77]
+    un luogo adatto per le battaglie navali, scavando il terreno nei pressi del Tevere (Naumachia Augusti), dove ora si trova il bosco dei Cesari;[78]
+    altri numerosissimi monumenti in tutte le province imperiali a partire dal vicino porto di Roma, Portus.[79]
+
+E sempre Svetonio ci ricorda che Augusto:
+
+«E così, non solo restaurò gli edifici che ogni condottiero aveva edificato, mantenendo le iscrizioni [originarie], ma nei due colonnati del suo foro collocò le statue di tutti loro, con le insegne dei trionfi conseguiti, e in un editto proclamò: aveva escogitato ciò, lui stesso mentre era in vita, affinché i principi successivi fossero costretti dai cittadini ad ispirarsi alla vita di loro e dello stesso Augusto come ad un modello.»
+(Svetonio, Augustus, 31.)
+
+Fece, inoltre, allargare e pulire il letto del fiume Tevere, da troppo tempo ricolmo di detriti, per evitare nuove e pericolose inondazioni;[75] Oltre a ciò, onde evitare i danni dei frequenti incendi, Augusto intervenne riducendo l'altezza delle nuove costruzioni, proibendo di edificare lungo le vie pubbliche ad un'altezza superiore ai 70 piedi.[1] Svetonio racconta infinite che:
+
+«Fece anche trasportare fuori dalla curia, dove Cesare era stato ucciso, la statua di Pompeo che mise di fronte al cortile del suo teatro, in alto ad un arco di marmo.»
+(Svetonio, Augustus, 31.)
+
+Tra il 20 e il 23, Tiberio, su consiglio del potente comandante (prefetto del pretorio) Seiano, decise di costruire i castra Praetoria, per radunarvi le nove coorti esistenti.
+
+A Claudio si devono invece la costruzione dell'Acquedotto Claudio (iniziata dal suo predecessore Caligola nel 38) e dell'Acquedotto Anio novus, completati nel 52; la costruzione di un canale navigabile sul Tevere che terminava a Portus, il nuovo porto a nord di Ostia, a circa tre km a nord. Il porto era costituito da due moli a forma di semicerchio, numerosi granai per l'approvvigionamento di merci provenienti da tutte le province romane e all'imboccatura era posto un faro che divenne il simbolo della città stessa. Per ospitare le navi fu scavato un gigantesco bacino rettangolare di circa 1000 per 700 metri, collegato al Tevere da due canali. Gli ingegneri di Claudio non considerarono con la dovuta attenzione il problema rappresentato dal deposito delle sabbie fluviali, e in breve il nuovo porto fu inagibile. Di questo fallimento fece tesoro Traiano che costruì nello stesso luogo un porto più efficiente che rimase in funzione per secoli.
+
+In seguito all'incendio del 64, Nerone recuperò una vasta area distrutta, facendo realizzare il faraonico complesso edilizio noto come Domus Aurea, la sua residenza personale, che giunse a comprendere il Palatino, le pendici dell'Esquilino (Oppio) e parte del Celio, per un'estensione di circa 2,5 km quadrati (250 ettari). E sempre in questa circostanza fu realizzato il cosiddetto colosso di Nerone, una gigantesca statua dell'imperatore in bronzo, alta 110 piedi secondo Plinio il Vecchio[80], 120 secondo Svetonio[81] o 102 secondo il Cronografo del 354[82]. Originariamente il colosso era situato nel vestibolo della Domus Aurea, in summa sacra via.[83] Il successivo incendio della Domus Aurea danneggiò il monumento che fu restaurato da Vespasiano, il quale lo convertì in una rappresentazione del dio Sole.[84] Ricordiamo, inoltre, che nel 62 fu eretto un nuovo complesso termale presso il Campo Marzio che copria un'area di 190x120 metri.
+
+I Flavi (69-96)
+
+Colosseum Interior Panorama from Level 2.jpg
+Interno del Colosseo oggi
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Arte flavia e dinastia dei Flavi.
+Mappa dei nuovi palazzi imperiali del Palatino di epoca flavia.
+
+Gli imperatori della dinastia flavia proseguirono nell'edificazione di opere di grande impegno. Fra queste spicca il Colosseo, il simbolo più famoso di Roma. Quest'epoca fu fondamentale per lo sviluppo di tecniche nuove, che permisero ulteriori sviluppi delle articolazioni spaziali. L'arco di Tito (81 o 90 d.C.) è impostato secondo uno schema più pesante e compatto dei precedenti augustei, che si allontana sempre di più dall'eleganza di matrice ellenistica. Ma fu soprattutto con la diffusione delle cupole emisferiche (Domus Transitoria, Domus Aurea e ninfeo di Domiziano a Albano Laziale) e la volta a crociera (Colosseo), aiutata dall'uso di archi trasversali in laterizio che creano le nervature e dall'uso di materiale leggero per le volte (anfore). Inoltre venne perfezionata la tecnica della volta a botte, arrivando a poter coprire aree di grandi dimensioni, come la vasta sala (33 metri di diametro) del vestibolo domizianeo del Foro Romano.
+
+Molto danaro fu speso da Vespasiano in lavori pubblici e in restauri e abbellimenti di Roma:
+
+    ricostruì il Campidoglio, dando lui stesso una mano a rimuovere le macerie e trasportandole personalmente in spalla; in questa circostanza fece rifare tremila tavole in bronzo, andate completamente distrutte nel recente incendio, dove erano conservati i senatoconsulti fin quasi dalla fondazione della città, i plebiscita, i trattati e le alleanze;[85]
+    iniziò un nuovo e funzionale Foro (il terzo dopo quelli di Cesare e Augusto);
+    ordinò la costruzione di tempio dedicato alla Pace[86] (decorato dalle statue che Nerone aveva raccolto in Grecia e in Anatolia). Si trovava accanto al foro di Augusto, separato solo dalla strada dell'Argileto, l'antica strada tra Foro Romano e Esquilino, risistemata poco dopo sotto Domiziano con la costruzione del foro Transitorio. Definito dai contemporanei come una delle meraviglie del mondo,[87] venne fatto costruire sotto Vespasiano (nel 74) e concluso da Domiziano;
+    portò a termine il tempio del Divo Claudio sul colle Celio, iniziato da Agrippina, ma quasi interamente demolito da Nerone fin dalla fondamenta;[86]
+    dispose la costruzione di numerosi bagni pubblici (che presero il nome di "Vespasiani");
+    realizzò, infine, un immenso anfiteatro (il Colosseo), il simbolo ancora oggi dell'antica Roma, nell'area che sapeva essere stata a ciò destinata dal divo Augusto.[86][88]
+
+Sul colle Palatino, dove aveva già abitato Augusto (forse nella cosiddetta casa di Livia, edificio non monumentale ma decorato da pregevoli pitture di secondo stile), poi vi avevano abitato Tiberio, Caligola e Nerone. Ma il palazzo più venne costruito da Domiziano, il cui architetto Rabirus edificò una costruzione ad almeno tre livelli della quale ci restano grandiose rovine.[89] Un piano era situato sul colle e due sulle pendici, secondo un'articolazione complessiva in quattro parti: la domus Flavia, zona di rappresentanza e per le funzioni ufficiali, la domus Augustana, residenza privata imperiale, lo stadio e le terme. La sua imponenza diede occasione ai cortigiani di esprimere grandi lodi così come ai detrattori di squalificare l'imperatore.[90]
+
+Oltre ai numerosi templi, fu eretta nella II regione – il Celio - la Mica Aurea, un padiglione privato che non è chiaro dove esattamente sorgesse,[91] l'arco di Tito sulla via Sacra e furono terminate le costruzioni del Colosseo (iniziato dal padre Vespasiano) e del vicino Ludus Magnus, oltre alla Meta sudante. Dobbiamo infine ricordare poi tutta una serie di altri edifici fatti costruire per rendere più splendida e monumentale la capitale dell'Impero romano: dal Foro della Pace (con il tempio della Pace), alle Terme di Tito, al Foro Transitorio,[92] all'arco di Tito, allo stadio (incaricando il celebre architetto Apollodoro[93]), all'odeon nel quale si svolgevano i Ludi capitolini.
+
+Traiano (Optimus princeps; 98-117)
+
+Modellino che ricostruisce la pianta del grande foro di Traiano.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: arte traianea e Imperatori adottivi.
+
+Apollodoro di Damasco completò la serie dei Fori imperiali di Roma, con il vastissimo Foro di Traiano,[94] dalla pianta innovativa, priva di tempio all'estremità, per permettere il capace funzionamento amministrativo, commerciale, giudiziario e politico della capitale dell'impero. Costruito dopo grandiosi lavori di sbancamento,[95] rese disponibili nuovi, grandi spazi e l'ampia basilica Ulpia ne è a testimonianza. Sembra inoltre che fu costruito un arco trionfale allo stesso dedicato su decreto del Senato nel 117, la cui collocazione è incerta. Gli studiosi formularono varie ipotesi sulla sua collocazione, che sembrava più probabile entro il Foro di Traiano stesso, forse quale ingresso monumentale in collegamento con quello di Augusto, o forse come struttura indipendente. Esiste infatti un aureo con la raffigurazione di un arco, a fornice unico e sormontato dal carro trionfale imperiale, scandito verticalmente in cinque sezioni scandite da sei colonne; accanto al fornice centrale sono raffigurate due nicchie con timpano per ciascun lato, dove potevano essere conservate le statue dei prigionieri Daci (presenti oggi nell'arco di Costantino). Il carro trionfale era trainato da sei cavalli e fiancheggiato da trofei con vittorie.
+Ricostruzione ideale della Basilica Ulpia.
+
+Per sistemare coerentemente il declivio verso il colle Quirinale, nato dal taglio del colle, venne realizzato un ardito complesso, denominato Mercati di Traiano, che seppe sfruttare articolatamente lo spazio disponibile, con più livelli e un organico complesso di uffici e spazi amministrativi. Verso il Colosseo, sui resti della Domus Aurea di Nerone (a pochi anni dal suo incendio del 104) furono edificati nuovi impianti termali (inaugurati il 22 giugno del 109). Furono le prime "grandi terme" di Roma e all'epoca infatti erano il più grande edificio termale esistente al mondo.[96] Venne costruita, sempre sotto Traiano, la Basilica Argentaria, che fiancheggiava il tempio di Venere Genitrice nel Foro di Cesare, e che serviva a sistemare le pendici del Campidoglio dopo il taglio per l'eliminazione della sella montuosa che collegava questo al Quirinale. La ricchezza ottenuta, pertanto, con le campagne militari vittoriose in Dacia permise il rafforzarsi di una classe media, che diede origine a una nuova tipologia abitativa, con più abitazioni raggruppate in un unico edificio, sempre più simili alle ricche case patrizie.
+Il Porto di Traiano esagonale a Ostia.
+
+Dopo un grave incendio sotto Domiziano, la ricostruzione del Circo Massimo, probabilmente già iniziata sotto questo imperatore, venne completata da Traiano nel 103: a quest'epoca risalgono la maggior parte dei resti giunti fino a noi. Sono ricordati ancora restauri sotto Antonino Pio, Caracalla[97] e Costantino I.
+
+E sempre a Traiano si devono due opere di ingegneria idraulica: la costruzione di un nuovo acquedotto nel 109, l'Acquedotto Traiano, con parziale riutilizzazione del condotto dell'Aqua Alsietina, raccolgiendo le acque di sorgenti sui monti Sabatini, presso il lago di Bracciano (lacus Sabatinus) e la cui lunghezza complessiva era di circa 57 km e la portata giornaliera di circa 2.848 quinarie, pari a poco meno di 118.200 m3; un nuovo porto, detto di Traiano, sempre progettato da Apollodoro di Damasco, più funzionale e più arretrato rispetto a quello di Claudio, i cui lavori durarono dal 100 al 112, con la creazione di un bacino artificiale di forma esagonale (con lati di 358 m, profondo 5 m e una superficie complessiva di 32 ettari e 2000 metri di banchine), collegato a Ostia con un nuovo canale e una strada a due corsie.
+
+Adriano (117-138)
+
+Disegno ricostruttivo del Pantheon.
+Andrea Palladio, I quattro libri dell'architettura, pianta del Pantheon (1570)
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: arte adrianea.
+
+Il capolavoro dell'epoca di Adriano e dell'architettura romana in generale è il Pantheon, ricostruito dopo un incendio del 110 (i bolli sui mattoni confermano il periodo tra il 115 e il 127) secondo una nuova pianta circolare che comprendeva una vasta aula coperta dalla cupola emiciclica, il cui diametro corrisponde all'altezza dell'edificio. Col Pantheon è chiara la divergenza tra architettura greca e romana: la prima si rivolge essenzialmente all'esterno degli edifici, la seconda mette al centro gli spazi interni. Non si conoscono esempi in Grecia della tipologia architettonica del Pantheon (edificio a base circolare con pronao colonnato organicamente articolato), mentre si hanno forse tracce a Roma in epoca republicana (il tempio B del Largo Argentina). Sempre Adriano ordinò la costruzione del grande tempio di Venere e Roma nel Foro Romano, disegnato dallo stesso imperatore (e criticato da Apollodoro di Damasco, architetto di Traiano).
+
+Opposto idealmente al mausoleo di Augusto, Adriano fece realizzare sulle sponde del Tevere il proprio mausoleo, oggi Castel Sant'Angelo, con l'annesso ponte Elio che serviva a collegarlo alla riva sinistra.
+Archeologia dei principali edifici: dagli Antonini ad Aureliano (138-275)
+
+Periodo antonino
+
+La Colonna di Marco Aurelio.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Arte dei primi Antonini, Arte nell'età di Commodo e dinastia degli Antonini.
+
+Sotto la dinastia degli Antonini, la produzione artistica ufficiale continuò nel solco del classicismo adrianea, con alcune tendenze che si svilupparono ulteriormente. Il gusto per il contrasto tra superfici lisce e mosse (come nel ritratto di Adriano), trasposto su una composizione d'insieme produsse il rilievo estremamente originale della decursio nella base della colonna Antonina. Conseguenza fu anche l'accentuazione del chiaroscuro.
+
+Antonino Pio eresse, prima in ricordo della moglie Faustina maggiore (morta nel 141), un tempio a lei dedicato nel Foro romano (oggi Chiesa di San Lorenzo in Miranda), e poi in onore del suo predecessore, l'imperatore Adriano (divinizzato dopo la sua morte), un tempio allo stesso dedicato nel 145, oggi in piazza di Pietra, nell'antica regione del Campo Marzio. Nel 147 questo imperatore provvedette alla costruzione di un nuovo ponte sul Tevere (o forse alla ristrutturazione del precedente ponte di Agrippa), prendendo probabilmente i nomi di ponte Aurelio (pons Aurelius) o ponte di Antonino (pons Antonini), riportati da fonti tarde.
+
+Nel 161-162 i figli dell'Imperatore appena defunto, Antonino Pio, dedicarono al padre adottivo una colonna onoraria a lui dedicata e alla moglie Faustina maggiore. Marco Aurelio e Lucio Vero scelsero come zona quella dove si era svolto l'Ustrinum Antoninorum, cioè la cremazione del corpo dell'imperatore. La colonna era fatta di granito rosso egiziano, non possedeva decorazioni sulla superficie del fusto e misurava 14.75 m in altezza. Alla sua sommità era posta una statua di Antonino Pio, come mostrato in una moneta con l'effigie dell'imperatore.
+
+A Marco Aurelio (o al figlio Commodo), si deve invece la costruzione della omonima Colonna, monumento eretto tra il 176 e il 192 per celebrare (forse solo dopo la morte di Marco), le vittorie ottenute su Germani e Sarmati stanziati a nord del medio corso del Danubio durante le guerre marcomanniche. La colonna, che era alta 29,617 metri (pari a 100 piedi romani; 42 metri se si considera anche la base), è ancora nella sua collocazione originale davanti a Palazzo Chigi. Si ispirava alla "gemella" Colonna Traiana. Il fregio scultoreo che si arrotola a spirale intorno al fusto, se fosse svolto, supererebbe i 110 metri in lunghezza. Questa Colonna, sebbene ispirata a quella Traiana, presenta molte novità: scene più affollate, figure più scavate, con un chiaroscuro più netto e, soprattutto, la comparsa di elementi irrazionali (Miracolo della pioggia, Miracolo del fulmine), prima avvisaglia di una società ormai in cerca di evasione da una realtà difficile, che di lì a poco, durante il successivo sfacelo economico e politico dell'impero, sarebbe sfociata nell'irrazionalismo anti-classico.
+
+Sempre a Marco Aurelio sarebbe da attribuire la costruzione di un arco trionfale allo stesso dedicato, sulla base di un ciclo di dodici rilievi (otto reimpiegati sull'arco di Costantino, tre conservati nel Palazzo dei Conservatori dei Musei Capitolini e un ultimo, scomparso, di cui resta un frammento oggi a Copenaghen). I rilievi, scolpiti in due riprese, nel 173 e nel 176 furono attribuiti a un arcus aureus o arcus Panis Aurei in Capitolio citato dalle fonti medioevali e che sorgeva sulle pendici del Campidoglio, all'incrocio tra la via Lata e il clivus Argentarius, non lontano dalla chiesa dei Santi Luca e Martina, dove i tre rilievi dei Musei Capitolini erano riutilizzati. Un altro possibile sito dove potrebbe essere sorto quest'arco è nei pressi della colonna di Marco Aurelio quale entrata monumentale al porticato circostante il monumento "colchide" e a un tempio dedicato allo stesso imperatore e alla moglie Faustina minore.[98] In ogni caso il soggetto dei 12 pannelli erano le imprese militari di Marco Aurelio durante le guerre marcomanniche.[99]
+
+Sotto Commodo si assistette a una svolta artistica, legata alla scultura. Nelle opere ufficiali, dal punto di vista formale si ottenne una dimensione spaziale pienamente compiuta, con figure ben collocate nello spazio tra le quali sembra "circolare l'atmosfera" (come negli otto rilievi riciclati poi nell'Arco di Costantino). Dal punto di vista del contenuto si assiste alla comparsa di sfumature simbolico-religiosi nella figura del sovrano e alla rappresentazione di fatti irrazionali.
+
+Periodo severiano
+
+Thermae of Caracalla Panorama.jpg
+Le terme di Caracalla
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Arte severiana e dinastia dei Severi.
+
+A Roma, dopo l'incendio del 191, sotto Commodo, iniziò una nuova fase di lavori, sotto i Severi: fu ricostruito il Tempio della Pace, Tempio di Vesta (nel 204), gli Horrea Piperiana, il Portico di Ottavia; si aggiunse un'ala dei palazzi imperiali del Palatino (la Domus Severiana), con una nuova facciata monumentale verso la Via Appia, il Septizodium; furono innalzati l'arco di Settimio Severo nel Foro Romano (eretto per il trionfo partico del 203), l'arco degli Argentari (eretto in onore dell'imperatore dai banchieri del Foro Boario nel 204) e le terme di Caracalla, l'edificio più imponente e tra i meglio conservati della Roma imperiale. Sempre all'epoca di Caracalla venne costruito quello che forse era il tempio più grandioso della città, quello di Serapide sul Quirinale. A Eliogabalo si deve invece un tempio dedicato al culto del Sol Invictus, il Elagabalium (eretto nel 220-221) e ad Alessandro Severo, l'ultimo degli acquedotti romani, l'Aqua Alexandrina (del 226).
+L'arco di Settimio Severo nel Foro romano.
+
+La pianta marmorea incisa sotto Settimio Severo su un muro del Foro della Pace e in parte pervenutaci ci dà una rappresentazione planimetrica della Roma di quegli anni nella cosiddetta Forma Urbis Severiana.
+
+L'arco di Settimio Severo a tre fornici era posizionato all'angolo nord-est del Foro Romano. Eretto tra il 202 e il 203, fu dedicato dal senato all'imperatore Settimio Severo e ai suoi due figli, Caracalla e Geta per celebrare la vittoria sui Parti, ottenuta con due campagne militari concluse rispettivamente nel 195 e nel 197-198. Una notevole novità è rappresentata dai quattro grandi pannelli con le imprese militari di Settimio Severo in Mesopotamia dell'arco trionfale. I modelli per tali raffigurazioni furono molto probabilmente le pitture trionfali inviate dall'Oriente e citate da Erodiano[100], spiegando così l'insolita costruzione compositiva per fasce orizzontali a partire dal basso. Il modellato delle figure è sommario, ma i profondi solchi di contorni, ombre e articolazioni, scavati col trapano elicoidale, animano con incisività la raffigurazione, inaugurando un linguaggio particolarmente corsivo, essenzialmente efficace, adatto a essere visto da distanza e al tempo stesso di rapida esecuzione (e quindi più economico). Il tutto era poi reso più espressivo dalla policromia. Questa tecnica ebbe poi grande fortuna per tutto il III secolo. Nell'arco del Foro si afferma inoltre una rappresentazione della figura umana nuova, in scene di massa che annullano la rappresentazione individuale di matrice greca; anche la plasticità è diminuita. L'imperatore appare su un piedistallo circondato dai generali mentre recita l'adlocutio e sovrasta la massa dei soldati come un'apparizione divina.
+Disegni di frammenti della Forma Urbis Severiana, di Giovan Battista Piranesi.
+
+La Domus Severiana fu l'ultimo ampliamento dei palazzi imperiali sul Palatino a Roma. Fu realizzata da Settimio Severo (attorno al 202-203), a sud-est dello Stadio palatino della Domus Augustana. Dell'edificio restano oggi solo le imponenti sostruzioni in laterizio sull'angolo del colle, che creavano una piattaforma artificiale alla stessa altezza del palazzo di Domiziano, dove era stato realizzato un ampliamento, essendo ormai esaurito lo spazio fisico disponibile sul colle. Il vero e proprio edificio si trovava quindi sulla terrazza sotto le sostruzioni. Facevano parte del complesso le terme imperiali, che erano alimentate da un ramo dell'Acquedotto Claudio. Sul lato verso la via Appia Settimio Severo aveva poi fatto realizzare un'imponente facciata simile a una scena teatrale, dotata di fontane e colonnati a tre livelli: il Settizonio (enorme fontana di 100 metri di lunghezza, costruito nel 203). I resti dello splendido edificio vennero, però, demoliti nel XVI secolo e ci è noto solo da disegni rinascimentali.
+
+L'arco degli Argentari è una piccola porta che si trova accanto al portico della chiesa di San Giorgio al Velabro. Ha la forma di porta architravata. Il monumento fu eretto nel 204 nel punto in cui l'antica strada urbana del vicus Jugarium si immetteva nella piazza del Foro Boario, nella zona dell'attuale piazza della Bocca della Verità. È una dedica privata degli argentarii et negotiantes boari huius loci ("i banchieri e i commercianti boari di questo luogo") agli augusti Settimio Severo e Caracalla, al cesare Geta, a Giulia Domna, moglie di Settimio Severo, e a Fulvia Plautilla, moglie di Caracalla. Il monumento è alto complessivamente 6,15 m e il passaggio ha una larghezza di 3,30 m.
+
+Le terme di Caracalla o Antoniniane, costituiscono uno dei più grandiosi esempi di terme romane, conservate ancora per gran parte della loro struttura e libere da edifici moderni. Furono costruite dall'imperatore Caracalla sull'Aventino, tra il 212 e il 217, come dimostrano i bolli laterizi[101]. Le terme erano grandiose, ma destinate a un uso di massa per il popolino dei vicini quartieri popolari della XII Regio. Per la loro realizzazione fu creato nel 212 un ramo speciale dell'Acqua Marcia, uno degli acquedotti di Roma antica, l'Aqua Antoniniana.
+
+L'anfiteatro castrense fu il secondo anfiteatro conservato a Roma, risalente agli inizi del III secolo, più precisamente a Eliogabalo (218-222). Questo amphitheatrum castrense rappresentava un "anfiteatro di corte", legato al Palazzo Sessoriano (o Sessorium), di cui faceva parte anche l'edificio su cui oggi sorge la chiesa di Santa Croce in Gerusalemme. Fu costruito probabilmente insieme al resto del complesso residenziale imperiale all'epoca dell'imperatore Eliogabalo e restò in uso fino alla costruzione delle Mura aureliane, che lo tagliarono a metà e lo trasformarono in bastione avanzato. Era di forma ellittica, con un asse maggiore di 88 m e minore di 75,80 m, la cui facciata esterna aveva tre ordini.
+
+L'Elagabalium era un tempio costruito sul lato nord-orientale del Palatino dall'imperatore romano Eliogabalo (218-222) e dedicato alla divinità solare di origine siriana Deus Sol Invictus, del quale l'imperatore stesso era gran sacerdote. Il tempio, circondato da colonne, aveva dimensioni di 70 m per 40 m, ed era a sua volta circondato da un portico colonnato. Si trovava di fronte al Colosseo.
+
+L'acquedotto alessandrino (Aqua Alexandrina) fu l'ultimo acquedotto costruito nell'antica Roma. Venne edificato nel 226 dall'imperatore Alessandro Severo. La sua realizzazione era finalizzata all'approvvigionamento idrico delle terme di Nerone che, situate in Campo Marzio presso il Pantheon (circa nella zona occupata oggi da Palazzo Madama), erano state radicalmente ristrutturate dallo stesso imperatore, e che pertanto da allora assunsero anche la denominazione di "terme Alessandrine" (Thermae Alexandrinae).
+
+Periodo dell'anarchia militare
+
+Mappa del tracciato delle mura aureliane.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Anarchia militare e Arte nell'età di Gallieno.
+
+L'opera più importante costruita a Roma in questo periodo sono le mura aureliane (270-273), sintomo di come ormai non si ritenesse più sicura nemmeno la capitale.[102] Pur con le inevitabili aggiunte, restauri e occasionali manomissioni, sono tutt'oggi la cerchia che delimita il centro storico della città di qua dal Tevere, confine urbano fino all'epoca moderna. Le mura si presentano oggi in un buono stato di conservazione per la maggior parte del loro tracciato. Nell'antichità correvano per circa 19 km, mentre oggi ne rimangono per un tracciato complessivo di 12,5 km.
+
+L'intera struttura si componeva di muro merlato, intervallato ogni 30 metri da 381 torri a pianta rettangolare, e da 17 o 18 porte principali.[103]. Solo ai lati delle porte si trovavano torri cilindriche, ma è dubbio se fossero inizialmente così o se la forma a pianta circolare sia frutto del restauro realizzato da Onorio. Nei punti orograficamente più scoscesi la parte interna del muro era rinforzata da un terrapieno. Le porte, erano generalmente di tre tipi, a seconda dell'importanza che all'epoca rivestivano le strade che da esse si dipartivano: le più importanti si componevano di due arcate gemelle, avevano una pavimentazione in travertino ed erano affiancate da due torri cilindriche; una sola arcata avevano quelle porte a cui si riconosceva un'importanza secondaria, con pavimentazione in opus latericium, attico in travertino e due torri cilindriche; al terzo tipo appartenevano porte costituite da una semplice arcata e affiancate dalle comuni torri quadrangolari.
+
+Di questo periodo si ricorda anche la costruzione del tempio del Sole, dedicato dall'imperatore Aureliano al dio Sol Invictus nel 275[104], per sciogliere il voto fatto in occasione della sua conquista di Palmira nel 272. Per il culto fu istituito un collegio di pontifices (Dei) Solis[105] e dei giochi annuali con corse nel circo, oltre a giochi quadriennali (agon Solis) da tenersi al termine dei Saturnalia. Dalle fonti sappiamo che si trovava nella regio VII "Via Lata", nel Campus Agrippae, che fu ornato con il bottino di guerra preso a Palmira e che era circondato da portici, dove aveva sede il deposito dei vina fiscalia, vino venduto a prezzo ridotto alla plebe di Roma a partire dall'epoca di Aureliano. La localizzazione coincide con l'attuale piazza di San Silvestro, presso la chiesa di San Silvestro in Capite.
+Tardo Impero romano
+Raffigurazione del Sacco di Roma condotto dai Visigoti di Alarico I nel 410.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Tarda antichità.
+
+Quando salì al potere Diocleziano (284), la situazione di Roma era grave: i barbari premevano dai confini già da decenni e le province erano governate da uomini corrotti. Per gestire meglio l'impero, Diocleziano lo divise in due parti (nel 286): egli divenne Augusto della parte orientale (con residenza a Nicomedia) e nominò Valerio Massimiano Augusto della parte occidentale, spostando la residenza imperiale a Mediolanum. Egli di fatto consolidava la normalizzazione interna dell'Impero, iniziata con Aureliano. L'impero venne suddiviso ulteriormente in quattro parti (nel 293): i due Augusti, infatti, dovevano nominare due Cesari, a cui affidavano parte del territorio e che sarebbero diventati, successivamente, i nuovi imperatori.[106] Questi nuovi Cesari elessero come loro capitale, Sirmium per l'area greco-balcanica e Augusta Treverorum per quella nord-occidentale. Era la tetrarchia, ideata per disinnescare le lotte ereditarie. In questo sistema Roma era sempre la capitale sacra e ideale, il Caput mundi, ma la sua posizione geografica, lontana dalle bellicose zone di confine, non rendeva possibile un suo uso per funzioni politiche o strategiche. Molti aspetti della vita politica, economica e sociale dell'impero vennero riformati da Diocleziano, dall'esercito al commercio, dalla religione all'organizzazione amministrativa del territorio.
+
+Nella pratica il sistema della tetrarchia durò ben poco, per via degli eserciti tutt'altro che disposti a deporre il potere politico che avevano avuto fino ad allora e che gli era valso numerosi vantaggi e privilegi. Già al primo passaggio, con la morte di Costanzo Cloro (306) le truppe stanziate in Britannia acclamarono suo figlio Costantino I, che diede il via a una guerra civile con gli altri tre pretendenti. Dopo aver battuto Massenzio e Massimino, restarono Licinio e Costantino che stipularono una pace. Ma nove anni dopo, nel 324, Costantino attaccò e sconfisse Licinio, che venne relegato in Tessaglia dove morì in seguito, assassinato dopo essere stato accusato di complotto. Il sistema tetrarchico non venne più restaurato.
+
+Una svolta decisiva si ebbe con Costantino, il quale, soprattutto dopo il 324, centralizzò nuovamente il potere e, già prima con l'editto di Milano del 313, dette libertà di culto ai cristiani, impegnandosi egli stesso per dare stabilità alla nuova religione. Fece costruire diverse basiliche e consegnò il potere civile su Roma a papa Silvestro I.[107]
+Pianta delle terme di Diocleziano. Legenda:
+1= Calidarium
+2= Tepidarium
+3= Frigidarium
+4= Natatio
+5= Palaestrae
+6= Entrata
+7= Grande esedra
+
+Costantino ebbe il merito di saper riconoscere le forze emergenti nella società e la capacità di assecondarle a suo favore, creando in prospettiva le premesse per una politica vittoriosa. Colse i sintomi delle richieste di spiritualità che da tempo agitavano la società, a differenza del rigetto delle novità della politica dioclezianea, e rivoluzionò la tradizionale posizione imperiale con l'editto di Milano, che stabiliva una tollerante neutralità religiosa dell'autorità. In particolare (ma non esclusivamente) favorì il cristianesimo, influenzato anche da sua madre Elena, ponendosi come primo sovrano protettore e seguace del nuovo dio, la cui sacralità ammantava la stessa carica imperiale. In questo senso l'imperatore presenziò al concilio di Nicea del 325 e si intromise nelle questioni dottrinali legate alle dottrine cristologiche per mantenere l'unità della Chiesa. Il cristianesimo così perse i suoi motivi rivoluzionari e, in parte, catartici per dedicarsi sempre più alla discussione ideologica, abbandonando al potere civile l'uomo sulla terra.
+
+Costantino inoltre si accorse della vitalità economica e politica dell'Oriente, ormai superiore a quella dell'Occidente, e decise di costruire una nuova capitale in una zona strategica nel punto di passaggio tra Europa e Asia Minore: Costantinopoli. Tra le questioni irrisolte ci furono quella dell'arruolamento dell'esercito, sempre più composto da barbari, e le differenze sociali tra città e campagna.
+
+Il cristianesimo divenne così religione ufficiale dell'impero grazie a un editto emanato nel 380 da Teodosio, che fu l'ultimo imperatore di un impero unificato: alla di lui morte, infatti, i suoi figli, Arcadio e Onorio, si divisero l'impero. La capitale dell'impero romano d'Occidente divenne Ravenna[108].
+
+Roma, che non ricopriva più un ruolo centrale nell'amministrazione dell'impero, venne saccheggiata dai Visigoti comandati da Alarico (410); impreziosita nuovamente dalla costruzione di edifici sacri da parte dei papi (con la collaborazione degli imperatori), la città subì un nuovo saccheggio nel 455, da parte di Genserico, re dei Vandali. La ricostruzione di Roma venne curata dai papi Leone I (defensor Urbis per avere convinto Attila, nel 452, a non attaccare Roma) e dal suo successore Ilario, ma nel 472 la città fu saccheggiata per la terza volta in pochi decenni (a opera di Ricimero e Anicio Olibrio).
+
+La deposizione di Romolo Augusto del 22 agosto 476 decretò la fine dell'impero romano d'occidente e, per gli storici, l'inizio dell'era medievale[109].
+Urbanistica
+Carta di Roma antica: dalla Roma repubblicana a quella di Aureliano
+
+Con la Tetrarchia si ebbe una ripresa dell'attività edilizia, con la costruzione delle terme di Diocleziano (le più grandi di sempre), della basilica e della grande villa di Massenzio sulla via Appia. L'incendio di Marco Aurelio Carino del 283, che aveva distrutto parte del centro cittadino, rese necessaria una ricostruzione, alacremente intrapresa, con i restauri al Foro di Cesare, alla Curia, al Tempio di Saturno, al teatro e ai portici di Pompeo. Forse risalgono a quegli anni i cataloghi Regionari, che contengono liste di edifici divisi per regione, dalla funzione non chiara, ma utilissimi per conoscere lo stato della città verso la fine del periodo antico.
+
+Massenzio fu l'ultimo imperatore a scegliere la città come sua residenza e capitale, e fu lui a cominciare una delle ultime stagioni edilizie imperiali: oltre alla già citata basilica, ricostruì il Tempio di Venere e Roma, innalzò una nuova villa imperiale, un circo e un sepolcro per la sua dinastia sulla Via Appia. Costantino sconfisse Massenzio, impresa celebrata con la costruzione dell'arco di Costantino (315 o 325), completò la costruzione della basilica nei Fori e iniziò altri lavori come le Terme di Costantino, sul Quirinale.
+
+Alla sua epoca Roma, che continuava ad avere circa un milione di abitanti racchiusi in un perimetro di circa 20 chilometri, poteva contare su: 11 terme e 856 bagni privati, 37 porte, 29 grandi strade, centinaia di strade secondarie, 190 granai, 2 grandi mercati (macella), 254 mulini, 11 grandi piazze o fori, 1 152 fontane, 28 biblioteche, 2 circhi, 2 anfiteatri, 3 teatri, 2 naumachie, 10 basiliche e 36 archi di marmo[110]. Presto però l'attenzione di Costantino si rivolse alla creazione di edifici cristiani e, soprattutto, decise di dedicarsi alla creazione di una nuova capitale monumentale, Costantinopoli. Del resto la scelta di nuove capitali imperiali già da parte degli imperatori tetrarchi e poi di Costantino, fece sì che altre città provinciali cominciarono ade essere abbellite di edifici pubblici, piuttosto che la stessa Roma. A Nicomedia in Bitinia, ad esempio, Diocleziano fece erigere senza dubbio edifici monumentali. Ultima e gigantesca opera di pubblica utilità realizzata a Roma, furono le terme di Diocleziano, costruite per servire i popolosi quartieri del Quirinale, Viminale e Esquilino. Per far posto alla gigantesca costruzione vennero demoliti molti edifici, alcuni dei quali vennero scavati in piazza della Repubblica mentre si costruiva la fermata della metropolitana.
+
+A Roma si continuarono a innalzare monumenti e archi onorari per tutto il V secolo, come l'arco di Graziano e Valente, quello di Teodosio, di Arcadio, di Onorio e di Teodorico (405), dei quali oggi non resta però traccia. Tra il 402 e il 405 vennero rifatte le porte nelle mura aureliane con l'aggiunta di torri rotonde ancora oggi esistenti.
+Ricostruzione di Roma imperiale all'epoca di Costantino I: plastico conservato presso il museo della civiltà romana.
+
+Da questo momento in poi le autorità urbane si limitarono a una semplice conservazione e restauro degli edifici della Roma antica, i quali, svuotati ormai di gran parte delle loro funzioni, andarono incontro a un inesorabile declino, con molti di essi distrutti volontariamente per usarne i materiali per nuovi edifici.
+
+I primi edifici di culto cristiani della città furono soprattutto luoghi di riunione e centri comunitari organizzati in case private (domus ecclesiae e tituli), che prendevano il nome dal primitivo proprietario, in seguito spesso identificato con il santo titolare. Altri luoghi di culto e centri di sepoltura si trovavano fuori dalle mura, ugualmente presso terreni privati, senza che si distinguessero esteriormente da quelli pagani.
+
+A partire da Costantino si cominciarono a erigere le prime grandi chiese cristiane: le basiliche di San Giovanni in Laterano, Santa Croce in Gerusalemme e le basiliche cimiteriali sorte presso le tombe dei martiri, spesso collegate ai mausolei della famiglia imperiale e con prevalente funzione cimiteriale (San Sebastiano sulla via Appia, San Lorenzo sulla via Tiburtina, ˜ sulla via Labicana, Sant'Agnese sulla via Nomentana e la stessa basilica di San Pietro in Vaticano). Le chiese sorsero tuttavia in aree periferiche, in terreni di proprietà imperiale, pur riprendendo la forma dei grandi complessi pubblici (principalmente basiliche e sale termali).
+
+Fino alla fine del V secolo si continuarono inoltre a restaurare nella città gli edifici pubblici e i templi pagani, a opera della potente aristocrazia senatoriale, rimasta in gran parte legata alle tradizioni pagane.
+
+Negli anni successivi, si ebbero la costruzione di San Paolo fuori le mura (iniziata nel 384 per intervento diretto degli imperatori cristiani Valentiniano II, Teodosio I e Arcadio) e di Santa Maria Maggiore (iniziata intorno al 420).
+
+Le trasformazioni in chiese di alcuni degli antichi tituli e le nuove costruzioni venivano finanziate da papi e presbiteri o da ricchi privati cristiani, inglobando spesso le case più antiche, e con la scelta di luoghi più vicini al centro cittadino. Il papa esercitava forse sin dall'inizio una qualche forma di controllo e solo a partire dalla metà del V secolo l'erezione di nuove chiese divenne una sua prerogativa. Sorsero così le chiese dei Santi Giovanni e Paolo, di San Vitale, di San Marco, di San Lorenzo in Damaso, di Sant'Anastasia, di Santa Sabina, di San Pietro in Vincoli, di San Clemente, di Santo Stefano Rotondo.
+
+La posizione decentrata della cattedrale di San Giovanni in Laterano, che si andava accentuando in seguito all'inizio dello spopolamento della città, fece sì che numerose altre chiese cittadine fossero dotate di battisteri, che si aggiungevano al costantiniano Battistero Lateranense.
+
+Alarico I dei Visigoti marciò verso Roma e la saccheggiò clamorosamente nel 410. Il sacco di Alarico non fu il più drammatico della storia della città: vi furono episodi cruenti, ma il re visigoto era cristiano (a differenza della sua popolazione) e rese omaggio alle tombe degli Apostoli, rispettando la sacralità del caput mundi. Al sacco seguì una certa flessione demografica, ma ancora attorno alla metà del V secolo sembra che Roma continuasse a essere la città più popolosa delle due parti dell'Impero, con una popolazione non inferiore ai 650 000 abitanti[111]. Nonostante ciò la violazione dell'Urbe sconvolse il mondo antico, ispirando il De civitate Dei di Sant'Agostino, che si chiedeva come Dio avesse potuto permettere una profanazione così inaudita.
+
+Di nuovo Genserico dei Vandali guidò via mare il suo popolo dal Nord-Africa verso Roma nel 455. Sebbene essi fossero cristiani (anche se convertiti all'arianesimo), saccheggiarono Roma in forma molto più spietata di quanto avesse fatto Alarico quarantacinque anni prima. Tale saccheggio fu formalmente giustificato da Genserico con il desiderio di riprendere la città dall'usurpatore Petronio Massimo, assassino di Valentiniano III.
+
+La caduta dell'Impero romano d'Occidente nel 476 non cambiò molto le cose per Roma. Gli Eruli di Odoacre e quindi gli Ostrogoti di Teodorico continuarono, come gli imperatori che li avevano preceduti, a governare l'Italia da Ravenna. L'amministrazione della città era affidata al Senato, da lungo tempo privato dei suoi originari poteri, e sempre maggiore importanza acquistava il Papa, che in genere veniva da una famiglia senatoria. Durante il regno di Teodorico venivano ancora restaurati gli edifici pubblici cittadini a cura dello Stato.
+Archeologia dei principali edifici (da Diocleziano a Costantino il Grande)
+I resti della basilica di Massenzio, inaugurata da Costantino I nel 315.
+Magnifying glass icon mgx2.svg	Lo stesso argomento in dettaglio: Arte dioclezianea e della tetrarchia e Arte costantiniana.
+
+Roma fu ornata dalle terme di Diocleziano, inaugurate nel 306. Egli provvedette soprattutto a ristrutturare preesistenti edifici pubblici di epoche precedenti come la Basilica Giulia e la Curia (entrambe nel 303). Massenzio, l'ultimo imperatore realmente romano, quando fu residente a Roma, dal 306 al 312, fece erigere: la basilica di Massenzio, il tempio del Divo Romolo in onore del figlio Valerio Romolo (nel 307-309), la propria villa lungo la via Appia, con annesso omonimo circo (311 circa) e il mausoleo di Valerio.
+
+Le terme di Diocleziano (Thermae Diocletiani), le più grandi Terme della Roma antica, furono iniziate nel 298 dall'imperatore Massimiano, nominato Augustus dell'Occidente da Diocleziano, e aperte nel 306, dopo l'abdicazione di entrambi. L'edificio in mattoni, posto sul colle Viminale, in un recinto di 380 x 365 m, occupava quasi 14 ettari, e ancora nel V secolo Olimpiodoro affermava che contavano 2400 vasche. Il blocco centrale misurava 250 x 180 m e potevano accedere al complesso fino a tremila persone contemporaneamente. Per dare l'idea della loro maestosità, è sufficiente ricordare che il colonnato semicircolare dell'attuale piazza della Repubblica (già piazza Esedra), realizzato alla fine dell'Ottocento da Gaetano Koch, ricalca esattamente l'emiciclo dell'esedra delle Terme. Erano alimentate da un ramo dell'Acqua Marcia che partiva da Porta Tiburtina e conduceva l'acqua in una cisterna lunga più di 90 m, detta la botte di Termini, che poi fu distrutta nel 1876 per fare spazio alla stazione Termini, che prese il nome niente meno che dalle "terme" stesse. La straordinaria vastità dell'impianto, e la sua distanza dai luoghi in cui si era ristretta la scarsa popolazione romana dopo la caduta dell'impero, fecero sì che dal XVI secolo in poi diverse strutture edilizie si annidassero nel grande recinto che - ancora integro nel XVIII secolo, come si vede nella pianta del Nolli - è giunto tuttavia fino ai nostri giorni ancora ben riconoscibile.
+La statua colossale di Costantino I, ora presso il Palazzo dei Conservatori, un tempo all'interno dell'abside della basilica di Massenzio.
+
+Il tempio del Divo Romolo si trova nell'area archeologica del Foro Romano lungo la Sacra via summa, alle spalle del cosiddetto "carcer" repubblicano, tra il tempio di Antonino e Faustina e la basilica di Massenzio. In origine venne costruito come vestibolo circolare di accesso al Tempio della Pace (75), ma dopo l'abbandono del complesso imperiale, Massenzio lo riutilizzò come tempio dedicato al figlio, Valerio Romolo, prematuramente scomparso nel 309 e divinizzato. In seguito, quando un'aula del Tempio della Pace venne trasformata nella basilica dei Santi Cosma e Damiano nel VI secolo, fu utilizzato come vestibolo della chiesa.
+
+Il circo di Massenzio, detto anche circo di Romolo era un circo romano, fatto edificare intorno al 311 dall'imperatore Massenzio, all'interno del complesso edilizio inscindibile costruito al terzo miglio della via Appia, e che includeva la villa di Massenzio e il mausoleo del figlio Valerio Romolo. La villa si configurano come l'ultimo atto della trasformazione di un'originaria villa rustica repubblicana del II secolo a.C., costruita in posizione scenografica sul declivio di una collina rivolta verso i Colli Albani. Dopo una fase risalente al primo impero, nel II secolo la villa subì una radicale trasformazione a opera di Erode Attico che la inglobò nel suo Pago Triopio.
+
+La Basilica di Massenzio o, più propriamente, di Costantino, fu l'ultima e la più grande basilica civile del centro monumentale di Roma (100 x 65 metri), posta all'estremità nord-est su quella che anticamente era il colle della Velia e che raccordava il Palatino con l'Esquilino. Non faceva parte del Foro Romano propriamente detto (pur rientrando oggi nell'area archeologica che lo comprende, estesa fino alle pendici della Velia), ma era nelle immediate adiacenze di esso. Nelle fonti antiche la basilica è ricordata come Basilica Nova[112], o Basilica Constantini[113], o Basilica Constantiniana.[114] La basilica fu inizialmente fatta costruire da Massenzio agli inizi del IV secolo e fu terminata e modificata da Costantino I[115] in prossimità del tempio della Pace, già probabilmente in abbandono, e del tempio di Venere e Roma, la cui ricostruzione fece parte degli interventi massenziani. La sua funzione era prevalentemente di ospitare l'attività giudiziaria di pertinenza del prefetto urbano. Nell'abside venne collocata una statua colossale, acrolito costruito parte in marmo e parte in legname e bronzo dorato, alto 12 m. La statua raffigurava in origine lo stesso Massenzio e in seguito venne rilavorata con i tratti di Costantino. Alcune parti marmoree superstiti furono scoperte nel 1487 e sono ora nel cortile del palazzo dei Conservatori sul Campidoglio (Musei Capitolini). La sola testa misura 2,60 m e il piede 2 m.
+
+L'architettura dell'arco di Costantino, inaugurato nel 315, è grandiosa, di equilibrata armonia, con un corredo scultoreo in buona parte di spoglio da monumenti anteriori (fregio spezzato e Daci prigionieri di epoca traianea, tondi adrianei, pannelli aureliani), in una sorta di commemorazione di tutti gli imperatori più amati, dopo Augusto, che concorrevano a onorare Costantino. Di nuova fabbricazione furono alcuni rilievi in vari punti dell'arco e soprattutto uno stretto fregio ricco di figure che inizia nell'angolo verso il Foro, si inserisce tra i fornici minori e i tondi adrianei e si conclude sul lato nord con le grandi composizioni dell'Oratio e della Liberalitas di Costantino, nel punto dove in precedenza si trovavano di solito scene di sacrificio e processioni pagane. Le scene raccontano le principali vicende della guerra contro Massenzio: la partenza da Milano, l'Assedio di Verona, la battaglia di Ponte Milvio, l'ingresso a Roma e le due già citate scene di cerimonia pubblica.
+
+Le terme di Costantino erano un complesso termale costruito sul colle Quirinale, da Costantino I intorno al 315, e forse iniziato sotto Massenzio. Si trovavano in corrispondenza del terrapieno sorretto da muraglione di villa Aldobrandini, tagliato poi da via Nazionale. I resti delle terme furono distrutti con la costruzione di Palazzo Rospigliosi e con l'apertura della via. Le terme erano piuttosto piccole ed esclusive, soprattutto se confrontate con le vicine terme di Diocleziano, grandiose ma dalla clientela sicuramente "popolare". Da queste terme provengono le statue dei Dioscuri poste attualmente alla base dell'obelisco del Quirinale nella omonima piazza, due statue di Costantino (una oggi nella basilica di San Giovanni in Laterano e una sulla balaustra di piazza del Campidoglio), una di suo figlio Costantino II come cesare.
+
+A Roma Costantino fece costruire la prima basilica cristiana, San Giovanni in Laterano (314-324?), posta accanto al palazzo Lateranense che assegnò al vescovo, dove forse aveva risieduto già Massenzio. Altri edifici di culto furono la chiesa dei Santi Marcellino e Pietro, il mausoleo per la madre Elena (oggi Tor Pignattara) e una piccola basilica sul luogo della tomba dell'apostolo Pietro, poi trasformata in grande basilica a cinque navate, modellata su San Giovanni, a partire dal 324 e terminata da Costantino II. Altre basiliche del periodo furono la Basilica di San Lorenzo fuori le mura (dal 315) e l'antica basilica di San Pietro in Vaticano (326-333). Novità delle basiliche costantiniane rispetto al loro modello (le basiliche civili romane) furono il transetto, di origine ancora discussa, e l'arco trionfale che inquadra l'abside sul lato minore. Si diffuse inoltre la copertura a capriate piuttosto che con le volte di gittate in opera cementizia.
+
+La chiesa di Santa Costanza era il mausoleo per la figlia di Costantino, Costantina, ed era impostato a pianta centrale con una cupola poggiante su un anello di doppie colonne. Oggi è una chiesa sita in via Nomentana, all'interno del complesso monumentale di Sant'Agnese fuori le mura. Fu fatto costruire nel 350, come proprio mausoleo, da Costantina, figlia di Costantino I, a ridosso della Basilica costantiniana, presso la sepoltura di sant'Agnese, della quale Costantina era una devota. Vi furono sepolte sia Costantina sia la sorella Elena. L'edificio fu detto "di Santa Costanza" a seguito del fatto che Costantina erroneamente fu scambiata per una santa.
+Principali campagne di scavo
+
+1898-1915
+    Scavi nell'area del Foro Romano e, dal 1907, del Palatino sotto la direzione di Giacomo Boni.
+
+1926-1928
+    Viene individuato il complesso archeologico di Largo di Torre Argentina, noto come "area sacra" al centro della piazza. Fu scavato a più riprese fino almeno agli anni settanta. Nella zona sono stati ritrovati i resti di quattro templi, che rappresentano il complesso più importante di edifici sacri d'età repubblicana media e tarda.
+
+1943
+    Il complesso archeologico della villa di Massenzio sulla via Appia venne acquisito per esproprio dal Comune di Roma.
+
+1948
+    Vengono individuate una serie di capanne del Palatino databili al VII secolo a.C., scavate nella roccia tufacea del colle Palatino, nell'area prospiciente il Tempio della Magna Mater. Si tratta dei migliori reperti dei primi insediamenti di Roma nella prima e seconda età del ferro (dal X secolo a.C. alla metà del VII secolo a.C.), rispetto ad altri siti nel Foro Boario e sulle pendici della Velia.
+
+1960
+    Il Comune di Roma, in occasione delle Olimpiadi di Roma, provvedette allo sterro di tutto il circo di Massenzio, nonché al restauro della spina, al consolidamento delle murature perimetrali del complesso, cui seguirono lo scavo parziale degli edifici del palazzo di Massenzio, del quadriportico e del mausoleo.
+
+Note
+
+Strabone, Geografia, V, 3,7.
+Pietro De Francisci, Sintesi storica del diritto romano, p. 33.
+^ Rendina, 2007, 17.
+L'ipotesi venne formulata da alcuni antichi cronisti di lingua greca e riportata dallo storico Plutarco.
+^ L'ipotesi è una variante della leggenda troiana. Il nome avrebbe preso nome dai fondatori della città, anche se il vero fondatore fu solo uno dei due gemelli; cfr. Rendina, 2007, 17.
+^ Ipotesi formulata da Servio Mario Onorato: Roma avrebbe significato "città del fiume".
+^ Plutarco scrisse: "sulle rive dell'insenatura sorgeva un fico selvatico, che i Romani chiamavano ruminalis perché i gemelli vi furono allattati; oggi ancora i Romani chiamano Rumilia una dea che viene invocata durante l'allattamento dei bambini".
+^ I due colli sono paragonabili, nella forma, a due mammelle.
+^ In questo caso Roma avrebbe significato "città forte"; Plutarco scrisse: "[…] i Pelasgi, che, dopo aver visitato quasi tutte le terre abitabili e soggiogati quasi tutti i viventi, si fissarono dove sorge Roma, e per la propria forza in guerra diedero il nome alla città".
+^ Liverotti.
+^ L'ipotesi venne ritenuta possibile durante il Medioevo, ma, tranne un graffito pompeiano, non è documentata in nessun luogo.
+^ Plutarco, Vita di Romolo, 1, 1.
+^ Plutarco, Vita di Romolo, 1, 2-3.
+Plutarco, Vita di Romolo, 2, 1.
+^ Plutarco, Vita di Romolo, 2, 3.
+^ Gentilizio Rumelna attestato dall'iscrizione sull'architrave della tomba 35 della Necropoli del Crocifisso del Tufo, a Orvieto. Iscrizione databile al VI secolo a.C.: Mi Velthurus Rumelnas.
+^ Filippo Coarelli, I santuari, il fiume, gli empori, vol. 13, pp. 129-134.
+^ Filippo Coarelli, I santuari, il fiume, gli empori, vol. 13, pp. 132-134. La via Salaria era destinata a trasportare il sale dal guado del Tevere (dove erano presenti dei depositi chiamati Salinae) alla Sabina, mentre la via Campana dalla foce raggiungeva, costeggiando la riva destra del fiume, il guado nei pressi del Foro Boario. Una Via era il prolungamento e completamento dell'altra, costituendone un sistema unitario.
+^ Massimo Pallottino, Origini e storia primitiva di Roma, pp. 61 e 65-68.
+^ Massimo Pallottino, Origini e storia primitiva di Roma, pagine 63-64.
+^ Secondo Marco Terenzio Varrone.
+^ Gabba, 27-43.
+Tito Livio, Ab Urbe condita libri, I, 7.
+^ Dionigi di Alicarnasso, Plutarco, Cassio Dione, Festo e Solino
+Tacito, Annales, XII, 24.
+^ Andrea Carandini Sulle orme di Schliemann a Roma: alle origini della Città e dello Stato su Archeologia viva, rivista bimestrale.
+^ A. Carandini, "Palatino, Velia e Sacra via: paesaggi urbani attraverso il tempo'", in: Workshop di Archeologia Classica, Quaderni, 2004.
+^ Massimo Pallottino, Origini e storia primitiva di Roma, Milano 1993, p. 130.
+^ Andrea Carandini, Roma il primo giorno, 2007, p. 19.
+^ Eutropio, Breviarium ab Urbe condita, I, 4.
+^ Livio, Periochae ab Urbe condita libri, 1.32.
+^ Eutropio, Breviarium ab Urbe condita, I, 5.
+Eutropio, Breviarium ab Urbe condita, I, 6.
+Livio, Periochae ab Urbe condita libri, 1.37.
+Livio, Periochae ab Urbe condita libri, 1.40.
+^ Eutropio, Breviarium ab Urbe condita, I, 7.
+^ "Servio Tullio ampliò la città. Vi incluse altri due colli, il Quirinale e il Viminale, ampliò le Esquilie e qui pose la sua dimora per dare lustro al luogo […] cinse poi la città di vallo, fossato e mura; in tal modo allargò il pomerio” . Livio, Ab Urbe condita libri, I, 44.
+^ Un passo di Livio che si riferisce alla disastrosa sconfitta subita nel 390 a.C. (o forse il 387) dai romani al fiume Allia a opera dei Galli Senoni, riporta come gli uomini dell'ala destra dell'esercito romano, ormai in fuga, "… si diressero in massa a Roma e lì, senza nemmeno preoccuparsi di richiudere le porte, ripararono nella cittadella" [il Campidoglio]. Livio, cit., V, 38. I Galli, inseguendo i fuggitivi, si accorsero che "…le porte non erano chiuse, che davanti alle porte non stazionavano sentinelle e che le mura non erano difese da armati" Livio, cit., V, 39.
+^ A.Carandini, Roma il primo giorno, p. 81.
+
+«Portando le spoglie del comandante nemico ucciso… Romolo salì sul Campidoglio. Lì, dopo averle poste sotto una quercia sacra ai pastori, insieme con un dono, tracciò i confini del tempio di Giove e aggiunse al dio un cognome: "Io Romolo, re vittorioso, offro a te, Giove Feretrio, queste armi regie, e dedico il tempio tra questi confini… in modo che sia dedicato alle spolie opime, che a coloro che verranno dopo di me porteranno qui dopo averle sottratte a re e comandanti uccisi in battaglia". Questa è l'origine del primo tempio consacrato a Roma.»
+(Tito Livio, Ab Urbe condita libri, I, 10.)
+^ A.Carandini, Roma il primo giorno, p. 79.
+^ Tito Livio, Ab Urbe condita libri, I, 10; Fasti trionfali, 2 anni dalla fondazione di Roma Fasti Triumphales: Roman Triumphs.
+^ A.Carandini, Roma il primo giorno, p. 80.
+^ Plutarco, Vita di Romolo, 18, 7-9; Floro, Epitoma de Tito Livio bellorum omnium annorum DCC, I, 1.13.
+^ Plutarco, Vita di Romolo, 19, 8-9.
+Tito Livio, Ab Urbe condita libri, I, 13.
+^ Plutarco, Vita di Romolo, 19, 10.
+^ Livio, Periochae ab Urbe condita libri, 1.21.
+Eutropio, Breviarium ab Urbe condita, I, 8.
+Livio, Periochae ab Urbe condita libri, 1.27.
+Livio, Periochae ab Urbe condita libri, 1.19.
+^ Gabba, 43-81.
+^ L'annessione della Grecia segnò l'arrivo a Roma di architetti quali Ermodoro di Salamina e scultori quali quelli della famiglia di Polykles.
+^ Gabba, 87-106.
+^ Gabba, 107-147.
+^ Gabba, 277-279.
+^ Su questo punto gli archeologi sostengono un'imprecisione di Tito Livio, essendo la caotica urbanizzazione un processo in corso in un periodo ben più lungo di tempo, che coinvolse anche altre città del mondo antico, come Atene.
+^ Coarelli, cit., pag. 11.
+Strabone, Geografia, V, 3,8.
+^ Ovidio, Fasti, V, 153; Notitia urbis Romae, XII; Macrobio, Saturnalia, I, 12.22.
+^ Romolo A. Staccioli, Acquedotti, fontane e terme di Roma antica, Roma, Newton & Compton, 2005.
+^ Livio, XXIV, 47.15-16.
+^ Naturalis historia XXXIV, 34.
+^ Dionigi di Alicarnasso, IV, 61.
+^ Varrone, De lingua Latina, VI, 19.
+^ Christian Hülsen, Il Foro Romano - Storia e Monumenti del 1905.
+^ Cassio Dione, Storia romana, XLVII.15.4.
+^ Tacito, Annales 11, 1; 32; 37.
+^ Roma raggiunse formalmente il Golfo Persico solo dal 115 al 117. Altrimenti, il confine orientale era rappresentato dall'Eufrate e dal deserto siriano.
+^ Gabba, 303-314.
+^ Gabba, 315-326.
+^ Gabba, 326-395.
+^ Gabba, 413-416.
+^ Gabba, 396-404.
+^ Dimensione che mantenne fino al IV secolo d.C., cfr. Giorgio Ruffolo, Quando l'Italia era una superpotenza, Einaudi, 2004.
+Svetonio, Augustus, 30.
+^ Svetonio, vita di Vitellio, 15.
+Svetonio, Augustus, 29.
+^ Svetonio, Augustus, 43.
+^ Leonardo B. Dal Maso, Roma dei Cesari, Roma, Bonechi Edizioni "Il Turismo", 1997. ISBN 88-7204-219-4
+^ Plinio il vecchio, Storia naturale, XXXIV, 7 s18
+^ Svetonio, Vite dei dodici Cesari, "Nerone", 31
+^ The Chronography of 354 AD. Part 14: Notice of the 14 regions of the City. Topographie der Stadt Rom in Alterthum II (1871), pp. 543-571.
+^ Marziale, Spettacoli, II, 1; Epistole, I, 71, 7; Cassio Dione, LXVI, 15
+^ Girolamo, in Hab. c3; Svetonio, Vite dei dodici Cesari, "Vespasiano" 18; Plinio il vecchio l.c.; cfr. Historia Augusta, Commodo, 17; Cassio Dione, Storia di Roma, LXXII, 15
+^ Svetonio, Vita di Vespasiano 8.
+
+    Svetonio, Vita di Vespasiano 9.
+    ^ Plinio, Naturalis historia XXXVI 102;
+    ^ AE 1995, 111.
+    ^ Marziale, VII, 56: «Gli astri e il cielo prendesti religiosamente, Rabirio, / quando costruisti con mirabile arte la casa parrasia».
+    ^ Plutarco, Vita di Publicola, 15: «Chi avesse visto un solo portico del palazzo di Domiziano, o la basilica, o un bagno, o uno degli appartamenti delle sue concubine […] si sentirebbe spinto a dire a Domiziano: Non è devozione né ambizione lodevole la tua: è follia. Tu godi a edificare».
+    ^ La notizia di Marziale, II, 59: «Son detta Mica e come vedi sono un piccolo refettorio (cenatio parva) / da me si prospetta il sepolcro dei Cesari», ha fatto discutere su dove realmente sorgesse la costruzione. Cfr. Lawrence Richardson, Jr., A new topographical dictionary of ancient Rome, 1992, p. 253».
+    ^ Svetonio, De vita Caesarum, Domitianus, 5.1. Viene attribuita all'imperatore la costruzione del "forum quod nunc Nervae vocatur" ("foro che ora è chiamato di Nerva").
+    ^ Dione Cassio, LXIX, 4
+    ^ Cassio Dione, LIX, 4, 1.
+    ^ Cassio Dione, LIX, 16, 3.
+    ^ Filippo Coarelli, Guida archeologica di Roma, Arnoldo Mondadori Editore, Verona 1984, p. 204.
+    ^ RIC Caracalla, IV 500a; Banti 46; BMCRE 251; Cohen 236.
+    ^ F.Coarelli, La colonna di Marco Aurelio, Roma, 2008, pagine 42-44.
+    ^ Bianchi Bandinelli - Torelli, cit., Arte romana scheda 142.
+    ^ Erodiano, Storia dell'impero dopo Marco Aurelio, III, 9.12.
+    ^ Una convinzione errata, che talvolta viene ripetuta anche nei testi, è che le terme siano state iniziate nel 206 da Settimio Severo, cfr. Coarelli, Guida archeologica di Roma, Arnoldo Mondadori Editore, Milano 1984, pag. 302.
+    ^ Zosimo, Storia nuova, I, 49.2.
+    ^ Vedi anche Rodolfo Lanciani, Le mura di Aureliano e Probo
+    ^ Girolamo, Chronicon, ab Abr. 2291 (275 d.C.); Cassiodoro, Cronache, 990; Historia Augusta, Divus Aurelianus, 1.3, 25.4-6, 35.3, 39.2.
+    ^ Historia Augusta, Divus Aurelianus, 35.3.
+    ^ Gabba, 419-422.
+    ^ Gabba, 428-435.
+    ^ Gabba, 447-449.
+    ^ Gabba, 450-458.
+    ^ Giorgio Ruffolo, Quando l'Italia era una superpotenza, Einaudi, 2004.
+    ^ «…alla metà del V secolo… si può immaginare che il totale della popolazione [di Roma] dovesse essere qualcosa di più dei due terzi di un milione.» Cit. da Arnold H. M. Jones, Il Tramonto del Mondo Antico, Bari, Casa Editrice Giuseppe Laterza & Figli, 1972, CL 20-0462-3, pag. 341-342 (Titolo dell'opera originale: Arnold H. M. Jones The Decline of the Ancient World, Lonmans, Green and Co. Ltd, London 1966)
+    ^ Curiosum urbis Romae regionum XIIII, IV.
+    ^ Polemio Silvio, Laterculus, pubblicato in Theodor Mommsen (a cura di) Chronicorum minorum saec. IV. V. Vi. VII, I, Berlino 1892, p. 545 (testo in rete[collegamento interrotto]).
+    ^ Chronographus anni 354, p. 146; Notitia urbis Romae, IV.
+    ^ Aurelio Vittore, De Caesaribus, 40.26.
+
+Bibliografia
+
+Fonti antiche
+
+    (GRC) Appiano di Alessandria, Historia Romana (??µa???), VII e VIII. Versione in inglese qui.
+    Cassio Dione Cocceiano, Historia Romana. (Versione in inglese disponibile qui).
+    Dionigi di Alicarnasso, Antichità romane. QUI versione in internet
+    Eutropio, Breviarium historiae romanae (testo latino), I-X
+    Floro,
+
+        Flori Epitomae Liber primus (testo latino) Wikisource-logo.svg;
+        Flori Epitomae Liber secundus (testo latino) Wikisource-logo.svg.
+
+    (LA) Tito Livio, Ab Urbe condita libri, XXI-XXX. Wikisource-logo.svg
+    (LA) Tito Livio, Periochae, 21-30. Wikisource-logo.svg
+    (GRC) Plutarco, Vite parallele. Wikisource-logo.svg QUI versione in internet
+    Tacito, Annales.
+    Varrone, De lingua Latina, V.
+
+Fonti storiografiche moderne
+
+    Giovanni Brizzi, Storia di Roma. 1.Dalle origini ad Azio, Bologna, Pàtron, 1997.
+    Andrea Carandini, La nascita di Roma: dei, lari, eroi e uomini all'alba di una civiltà, Torino, 1998.
+    Andrea Carandini, Roma il primo giorno, Roma-Bari, Laterza, 2007.
+    Autori Vari, Atlante di Roma antica, a cura di Andrea Carandini, Milano, Mondadori Electa, 2012, ISBN 978-88-370-8510-0.
+    Filippo Coarelli, Guida archeologica di Roma, Arnoldo Mondadori Editore, Milano 1984.
+    Filippo Coarelli, I santuari, il fiume, gli empori, in Storia Einaudi dei Greci e dei Romani, vol.13, Milano 2008.
+    Mauro Cristofani (a cura di), La grande Roma dei Tarquini, Roma, L'Erma di Bretschneider, 1990, ISBN 88-7062-684-9.
+    Pietro De Francisci, Sintesi storica del diritto romano, Roma 1968.
+    Emilio Gabba, et al., Introduzione alla storia di Roma, Milano, LED, 1999, ISBN 88-7916-113-X.
+    Andrea Giardina, Roma Antica, Roma-Bari, Editori Laterza, 2008, ISBN 978-88-420-7658-2.
+    Maria Antonietta Lozzi Bonaventura, Roma antica. Viaggio nel tempo alla scoperta della città eterna, Subiaco, Guide ITER, 2009, ISBN 978-88-8177-143-1.
+    Theodor Mommsen, Storia di Roma antica, Firenze, Sansoni, 1972.
+    Massimo Pallottino, Origini e storia primitiva di Roma, Milano, Rusconi, 1993, ISBN 88-18-88033-0.
+    Renato Peroni, Comunità e insediamento in Italia fra età del bronzo e prima età del ferro, in Storia dei Greci e dei Romani, vol. 13, Einaudi 2008.
+    M. Quercioli, Le mura e le porte di Roma, Newton Compton, Roma, 1982.
+
+Voci correlate
+
+    Abbigliamento nell'antica Roma
+    Civiltà romana
+    Monumenti di Roma antica
+
+Altri progetti
+
+Collegamenti esterni
+
+    Roma antica in 3D su Google Earth.
+    Risorse web di storia dell'architettura antica: 2: Dalla civiltà etrusca agli inizi del tardo impero romano (PDF), su cristianomarchegiani.it.
+
+Sedi imperiali romane
+V · D · M
+Palazzi e residenze imperiali romani (I sec a.C. - VI sec d.C.)
+V · D · M
+Giardini di Roma antica
+V · D · M
+Città romane della Regio I Latium et Campania
+V · D · M
+Via Appia
+V · D · M
+Via Latina
+V · D · M
+Via Flaminia
+V · D · M
+Via Salaria
+V · D · M
+Via Cassia
+V · D · M
+Via Tiburtina Valeria
+V · D · M
+Via Aurelia
+V · D · M
+Via Collatina
+V · D · M
+Via Tiberina
+V · D · M
+Via Ardeatina
+V · D · M
+Regiones di Roma antica
+V · D · M
+Musei archeologici di Roma
+Antica Roma Portale Antica Roma
+	
+Archeologia Portale Archeologia
+	
+Architettura Portale Architettura
+Categorie:
+
+    Antica RomaStoria di RomaSiti archeologici romani del LazioSedi imperiali romaneCittà romane del Lazio
+
+| [altre]
+Menu di navigazione
+
+    Accesso non effettuato
+    discussioni
+    contributi
+    registrati
+    entra
+
+    Voce
+    Discussione
+
+    Leggi
+    Modifica
+    Modifica wikitesto
+    Cronologia
+
+Ricerca
+
+    Pagina principale
+    Ultime modifiche
+    Una voce a caso
+    Nelle vicinanze
+    Vetrina
+    Aiuto
+    Sportello informazioni
+
+Comunità
+
+    Portale Comunità
+    Bar
+    Il Wikipediano
+    Fai una donazione
+    Contatti
+
+Strumenti
+
+    Puntano qui
+    Modifiche correlate
+    Carica su Commons
+    Pagine speciali
+    Link permanente
+    Informazioni pagina
+    Elemento Wikidata
+    Cita questa voce
+
+Stampa/esporta
+
+    Crea un libro
+    Scarica come PDF
+    Versione stampabile
+
+Lingue
+
+Aggiungi collegamenti
+
+    Questa pagina è stata modificata per l'ultima volta il 13 feb 2019 alle 17:05.
+    Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+
+    Informativa sulla privacy
+    Informazioni su Wikipedia
+    Avvertenze
+    Sviluppatori
+    Dichiarazione sui cookie
+    Versione mobile
+
+    Wikimedia Foundation	
+    Powered by MediaWiki	
+

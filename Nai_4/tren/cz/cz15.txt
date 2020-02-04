@@ -1,0 +1,46 @@
+Textus receptus
+Skocit na navigaci
+Skocit na vyhledávání
+Titulní list Erasmova vydání z roku 1516
+
+Textus receptus (lat.), doslova „prijatý text“, znamená v biblistice skupinu ci rodinu textu reckého Nového zákona, kterou svým vydáním z roku 1516 založil katolický humanista Erasmus Rotterdamský. Tento text, který rada tiskaru rychle rozšírila a stále opravovala, se stal základem reformacních prekladu Bible, napríklad nemeckého prekladu Lutherova, Bible kralické v ceštine nebo anglické King James Version. Textová kritika 19. a 20. století dospela na základe mnoha starších reckých rukopisu ke znení, který se od textu receptu na mnoha místech – i když vetšinou nevýznamne – odlišuje a na nemž se zakládají moderní biblické preklady.[1]
+Obsah
+
+    1 Erasmus, Estienne a Beza
+    2 Soucasný stav
+    3 Odkazy
+        3.1 Reference
+        3.2 Související clánky
+        3.3 Externí odkazy
+
+Erasmus, Estienne a Beza
+
+Erasmus se rozhodl vydat recký text Nového zákona jako první, a protože soucasne se pripravovalo vydání recké bible i ve Španelsku (Komplutenská polyglota), pracoval pod casovým tlakem. I když se biblickým textem zabýval už dríve, své vydání zpracoval za nekolik mesícu. Mel pritom k dispozici 6 pomerne pozdních rukopisu z 11.–15. století, které patrily k tzv. byzantské textové tradici, jež se používá ve východních církvích. Všechny byly neúplné, takže pro evangelia mel Erasmus k dispozici dva, pro knihu Zjevení jen jeden text. Protože v nem posledních pet veršu chybelo, preložil je zpetne z latiny.[1]
+
+Leidenští tiskari Elzevírové knihu rychle a kvalitne vydali a protože mela i doporucení papeže Lva X., rychle se rozšírila. Pro další ctyri vydání Erasmus text ješte upravoval, a po nem i parížský tiskar Robert Estienne, který ve vydání z roku 1551 poprvé rozdelil bibli na verše. V predmluve k tomuto vydání také poprvé použil oznacení textus ab omnibus receptus, „text všemi prijatý“. Kalvínský teolog Theodor Beza mel prístup k jednomu z daleko starších rukopisu (Bezuv kodex), který také patrí do jiné textové rodiny, a ve svých vydáních jej použil.[1]
+Soucasný stav
+
+Podobne pracovali další ucenci až do 18. století, kdy se anglictí a nemectí biblisté rozhodli oprít o jinou textovou tradici, zastoupenou staršími rukopisy. Behem 19. století se objevila rada duležitých a velmi starých rukopisu, k nimž ve 20. století pristoupily i papyry. Jako výsledek staleté cinnosti tak ve 20. století vznikla kritická vydání, založená na dukladném studiu stovek rukopisu, jejichž odchylky se uvádejí v poznámkách pod carou. Vydáním Spojených biblických spolecností (Nestle – Aland) se nekdy ríká „nový textus receptus“, protože se prosadila i ekumenicky.
+
+Text velmi blízký textus receptus se tradicne a dodnes používá v reckých církvích a rada protestantských církví používá jeho tradicní preklady. Rozdílu vuci kritickému vydání je nekolik tisíc, z nich však sotva stovka se týká smyslu textu: ostatní jsou pravopisné chyby, zmeny slovosledu atd. Nejvýznamnejší jsou patrne tzv. comma Johanneum, Trojicní prídavek v Prvním listu Janove (1J 5, 7–9 (Kral, CEP)) nebo liturgický prídavek k modlitbe Otce náš (Mt 6, 13 (Kral, CEP)).[1]
+Odkazy
+Reference
+
+    http://www.bibelbrunnen.de/Dokumente/sonstTextRec.php
+
+Související clánky
+
+    Nový zákon
+    Textová kritika
+
+Externí odkazy
+
+Recký text
+
+    Scrivener, Novum Testamentum : Textus Stephanici A.D. 1550 : accedunt variae lectiones editionum Bezae, Elzeviri, Lachmanni, Tischendorfii, Tregellesii, Westcott-Hort, Versionis Anglicanae Emendatorum (1887)
+    Robert Estienne, Novum Testamentum Græce (1550)
+    (anglicky)
+    The Textus Receptus na Encyclopedia of Textual Criticism
+    Westcott & Hort vs. Textus Receptus na Bible Research
+    (nemecky)
+    M. Arhelger: Gibt der Textus Receptus die Urfassung des Neuen Testaments wieder? na stránkách Bibelbrunnen.de.

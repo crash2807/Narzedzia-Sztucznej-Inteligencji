@@ -1,0 +1,286 @@
+For the video game, see Capitalism (video game). For the sculpture built in 1991, see Capitalism (sculpture).
+Part of a series on
+Capitalism
+Concepts
+[show]
+Economic systems
+[show]
+Economic theories
+[show]
+Origins
+[show]
+Development
+[show]
+People
+[show]
+Related topics
+[show]
+Ideologies
+[show]
+
+    Capitalism portal
+    Economics portal
+    Philosophy portal
+    Politics portal
+    Money portal
+
+    vte
+
+Part of a series on
+Economic systems
+By ideology
+[show]
+By coordination
+[show]
+By regional model
+[show]
+Sectors
+[show]
+Property types
+[show]
+Transition
+[show]
+Coordination
+[show]
+Other types
+[show]
+
+    Emblem-money.svg Business and economics portal
+
+    vte
+
+Capitalism is an economic system based on the private ownership of the means of production and their operation for profit.[1][2][3][4] Characteristics central to capitalism include private property, capital accumulation, wage labor, voluntary exchange, a price system, and competitive markets.[5][6] In a capitalist market economy, decision-making and investment are determined by every owner of wealth, property or production ability in financial and capital markets, whereas prices and the distribution of goods and services are mainly determined by competition in goods and services markets.[7][8]
+
+Economists, political economists, sociologists and historians have adopted different perspectives in their analyses of capitalism and have recognized various forms of it in practice. These include laissez-faire or free market capitalism, welfare capitalism and state capitalism. Different forms of capitalism feature varying degrees of free markets, public ownership,[9] obstacles to free competition and state-sanctioned social policies. The degree of competition in markets, the role of intervention and regulation, and the scope of state ownership vary across different models of capitalism.[10][11] The extent to which different markets are free as well as the rules defining private property are matters of politics and policy. Most existing capitalist economies are mixed economies, which combine elements of free markets with state intervention and in some cases economic planning.[12]
+
+Market economies have existed under many forms of government and in many different times, places and cultures. Modern capitalist societies—marked by a universalization of money-based social relations, a consistently large and system-wide class of workers who must work for wages, and a capitalist class which owns the means of production—developed in Western Europe in a process that led to the Industrial Revolution. Capitalist systems with varying degrees of direct government intervention have since become dominant in the Western world and continue to spread. Over time, capitalist countries have experienced consistent economic growth and an increase in the standard of living.
+
+Critics of capitalism argue that it establishes power in the hands of a minority capitalist class that exists through the exploitation of the majority working class and their labor; prioritizes profit over social good, natural resources and the environment; and is an engine of inequality, corruption and economic instabilities. Supporters argue that it provides better products and innovation through competition, disperses wealth to all productive people, promotes pluralism and decentralization of power, creates strong economic growth, and yields productivity and prosperity that greatly benefit society.
+Contents
+
+    1 Etymology
+    2 History
+        2.1 Agrarian capitalism
+        2.2 Mercantilism
+        2.3 Industrial capitalism
+        2.4 Modern capitalism
+            2.4.1 Relationship to democracy
+        2.5 Varieties of capitalism
+    3 Characteristics
+        3.1 The market
+        3.2 Profit motive
+        3.3 Private property
+        3.4 Market competition
+        3.5 Economic growth
+        3.6 As a mode of production
+    4 Supply and demand
+        4.1 Graphical representation of supply and demand
+            4.1.1 Supply schedule
+            4.1.2 Demand schedule
+        4.2 Equilibrium
+        4.3 Partial equilibrium
+        4.4 Empirical estimation
+        4.5 Macroeconomic uses of demand and supply
+        4.6 History
+    5 Role of government
+        5.1 Relationship to political freedom
+    6 Types of capitalism
+        6.1 Advanced capitalism
+        6.2 Finance capitalism
+        6.3 Mercantilism
+        6.4 Free market economy
+        6.5 Social market economy
+        6.6 State capitalism
+        6.7 Corporate capitalism
+        6.8 Mixed economy
+        6.9 Others
+    7 Capital accumulation
+        7.1 Background
+        7.2 Concentration and centralisation
+        7.3 The rate of accumulation
+        7.4 The circuit of capital accumulation from production
+        7.5 Simple and expanded reproduction
+        7.6 Capital accumulation as social relation
+    8 Wage labour
+        8.1 Types
+    9 Effects of war
+    10 Criticism
+        10.1 The profit motive
+        10.2 Comparison to slavery
+        10.3 Marxian responses
+        10.4 Criticisms on the environmental sustainability of capitalism
+        10.5 Supply and demand
+        10.6 Externalities
+        10.7 Counter-criticisms
+            10.7.1 Austrian School
+            10.7.2 Ayn Rand
+    11 See also
+    12 References
+    13 Further reading
+    14 External links
+
+Etymology
+Other terms sometimes used for capitalism:
+
+    Capitalist mode of production[13]
+    Economic liberalism[14]
+    Free enterprise[15]
+    Free enterprise economy[16]
+    Free market[15][17]
+    Free market economy[16]
+    Laissez-faire[18]
+    Market economy[19]
+    Market liberalism[20][21]
+    Neoliberalism[22]
+    Self-regulating market[15]
+    Profits system[23]
+
+The term "capitalist", meaning an owner of capital, appears earlier than the term "capitalism" and it dates back to the mid-17th century. "Capitalism" is derived from capital, which evolved from capitale, a late Latin word based on caput, meaning "head"—also the origin of "chattel" and "cattle" in the sense of movable property (only much later to refer only to livestock). Capitale emerged in the 12th to 13th centuries in the sense of referring to funds, stock of merchandise, sum of money or money carrying interest.[24]:232[25][26] By 1283, it was used in the sense of the capital assets of a trading firm and it was frequently interchanged with a number of other words—wealth, money, funds, goods, assets, property and so on.[24]:233
+
+The Hollandische Mercurius uses "capitalists" in 1633 and 1654 to refer to owners of capital.[24]:234 In French, Étienne Clavier referred to capitalistes in 1788,[27] six years before its first recorded English usage by Arthur Young in his work Travels in France (1792).[26][28] In his Principles of Political Economy and Taxation (1817), David Ricardo referred to "the capitalist" many times.[29] Samuel Taylor Coleridge, an English poet, used "capitalist" in his work Table Talk (1823).[30] Pierre-Joseph Proudhon used the term "capitalist" in his first work, What is Property? (1840), to refer to the owners of capital. Benjamin Disraeli used the term "capitalist" in his 1845 work Sybil.[26]
+
+The initial usage of the term "capitalism" in its modern sense has been attributed to Louis Blanc in 1850 ("What I call 'capitalism' that is to say the appropriation of capital by some to the exclusion of others") and Pierre-Joseph Proudhon in 1861 ("Economic and social regime in which capital, the source of income, does not generally belong to those who make it work through their labour").[24]:237 Karl Marx and Friedrich Engels referred to the "capitalistic system"[31][32] and to the "capitalist mode of production" in Capital (1867).[33] The use of the word "capitalism" in reference to an economic system appears twice in Volume I of Capital, p. 124 (German edition) and in Theories of Surplus Value, tome II, p. 493 (German edition). Marx did not extensively use the form capitalism, but instead those of capitalist and capitalist mode of production, which appear more than 2,600 times in the trilogy The Capital. According to the Oxford English Dictionary (OED), the term "capitalism" first appeared in English in 1854 in the novel The Newcomes by novelist William Makepeace Thackeray, where he meant "having ownership of capital".[34] Also according to the OED, Carl Adolph Douai, a German American socialist and abolitionist, used the phrase "private capitalism" in 1863.
+History
+Main article: History of capitalism
+
+Capitalism in its modern form can be traced to the emergence of agrarian capitalism and mercantilism in the early Renaissance, in city states like Florence.[35] Capital has existed incipiently on a small scale for centuries[36] in the form of merchant, renting and lending activities and occasionally as small-scale industry with some wage labour. Simple commodity exchange and consequently simple commodity production, which are the initial basis for the growth of capital from trade, have a very long history. Classical Islam promulgated capitalist economic policies such as free trade and banking. Their use of Indo-Arabic numerals facilitated bookkeeping. These innovations migrated to Europe through trade partners in cities such as Venice and Pisa. The Italian mathematician Fibonacci traveled the Mediterranean talking to Arab traders, and returned to popularize the use of Indo-Arabic numerals in Europe.[37]
+
+Capital and commercial trade thus existed for much of history, but it did not lead to industrialisation or dominate the production process of society. That required a set of conditions, including specific technologies of mass production, the ability to independently and privately own and trade in means of production, a class of workers willing to sell their labour power for a living, a legal framework promoting commerce, a physical infrastructure allowing the circulation of goods on a large scale and security for private accumulation. Many of these conditions do not currently exist in many Third World countries, although there is plenty of capital and labour. The obstacles for the development of capitalist markets are therefore less technical and more social, cultural and political.
+Agrarian capitalism
+
+The economic foundations of the feudal agricultural system began to shift substantially in 16th-century England as the manorial system had broken down and land began to become concentrated in the hands of fewer landlords with increasingly large estates. Instead of a serf-based system of labor, workers were increasingly employed as part of a broader and expanding money-based economy. The system put pressure on both landlords and tenants to increase the productivity of agriculture to make profit; the weakened coercive power of the aristocracy to extract peasant surpluses encouraged them to try better methods; and the tenants also had incentive to improve their methods in order to flourish in a competitive labor market. Terms of rent for land were becoming subject to economic market forces rather than to the previous stagnant system of custom and feudal obligation.[38][39]
+
+By the early 17th century, England was a centralized state in which much of the feudal order of Medieval Europe had been swept away. This centralization was strengthened by a good system of roads and by a disproportionately large capital city, London. The capital acted as a central market hub for the entire country, creating a very large internal market for goods, contrasting with the fragmented feudal holdings that prevailed in most parts of the Continent.
+Mercantilism
+Main article: Mercantilism
+A painting of a French seaport from 1638 at the height of mercantilism
+
+The economic doctrine prevailing from the 16th to the 18th centuries is commonly called mercantilism.[40][41] This period, the Age of Discovery, was associated with the geographic exploration of the foreign lands by merchant traders, especially from England and the Low Countries. Mercantilism was a system of trade for profit, although commodities were still largely produced by non-capitalist methods.[42] Most scholars consider the era of merchant capitalism and mercantilism as the origin of modern capitalism,[43][44] although Karl Polanyi argued that the hallmark of capitalism is the establishment of generalized markets for what he called the "fictitious commodities", i.e. land, labor and money. Accordingly, he argued that "not until 1834 was a competitive labor market established in England, hence industrial capitalism as a social system cannot be said to have existed before that date".[45]
+Robert Clive after the Battle of Plassey, which began East India Company rule in India
+
+England began a large-scale and integrative approach to mercantilism during the Elizabethan Era (1558–1603). A systematic and coherent explanation of balance of trade was made public through Thomas Mun's argument England's Treasure by Forraign Trade, or the Balance of our Forraign Trade is The Rule of Our Treasure. It was written in the 1620s and published in 1664.[46]
+
+European merchants, backed by state controls, subsidies and monopolies, made most of their profits by buying and selling goods. In the words of Francis Bacon, the purpose of mercantilism was "the opening and well-balancing of trade; the cherishing of manufacturers; the banishing of idleness; the repressing of waste and excess by sumptuary laws; the improvement and husbanding of the soil; the regulation of prices...".[47]
+
+The British East India Company and the Dutch East India Company inaugurated an expansive era of commerce and trade.[48][49] These companies were characterized by their colonial and expansionary powers given to them by nation-states.[48] During this era, merchants, who had traded under the previous stage of mercantilism, invested capital in the East India Companies and other colonies, seeking a return on investment.
+Industrial capitalism
+A Watt steam engine: the steam engine fuelled primarily by coal propelled the Industrial Revolution in Great Britain[50]
+
+In the mid-18th century, a new group of economic theorists, led by David Hume[51] and Adam Smith, challenged fundamental mercantilist doctrines such as the belief that the world's wealth remained constant and that a state could only increase its wealth at the expense of another state.
+
+During the Industrial Revolution, industrialists replaced merchants as a dominant factor in the capitalist system and affected the decline of the traditional handicraft skills of artisans, guilds and journeymen. Also during this period, the surplus generated by the rise of commercial agriculture encouraged increased mechanization of agriculture. Industrial capitalism marked the development of the factory system of manufacturing, characterized by a complex division of labor between and within work process and the routine of work tasks; and finally established the global domination of the capitalist mode of production.[41]
+
+Britain also abandoned its protectionist policy as embraced by mercantilism. In the 19th century, Richard Cobden and John Bright, who based their beliefs on the Manchester School, initiated a movement to lower tariffs.[52] In the 1840s, Britain adopted a less protectionist policy, with the repeal of the Corn Laws and the Navigation Acts.[41] Britain reduced tariffs and quotas, in line with David Ricardo's advocacy for free trade.
+Modern capitalism
+[icon]	
+This section needs expansion. You can help by adding to it. (February 2017)
+The gold standard formed the financial basis of the international economy from 1870 to 1914
+
+Capitalism was carried across the world by broader processes of globalization and by the beginning of the nineteenth century a series of loosely connected market systems had come together as a relatively integrated global system, in turn intensifying processes of economic and other globalization.[53][page needed] Later in the 20th century, capitalism overcame a challenge by centrally-planned economies and is now the encompassing system worldwide,[16][54] with the mixed economy being its dominant form in the industrialized Western world.
+
+Industrialization allowed cheap production of household items using economies of scale while rapid population growth created sustained demand for commodities. Globalization in this period was decisively shaped by 18th-century imperialism.[53][page needed]
+
+After the First and Second Opium Wars and the completion of British conquest of India, vast populations of these regions became ready consumers of European exports. Also in this period, areas of sub-Saharan Africa and the Pacific islands were colonised. The conquest of new parts of the globe, notably sub-Saharan Africa, by Europeans yielded valuable natural resources such as rubber, diamonds and coal and helped fuel trade and investment between the European imperial powers, their colonies and the United States:
+
+    The inhabitant of London could order by telephone, sipping his morning tea, the various products of the whole earth, and reasonably expect their early delivery upon his doorstep. Militarism and imperialism of racial and cultural rivalries were little more than the amusements of his daily newspaper. What an extraordinary episode in the economic progress of man was that age which came to an end in August 1914.[55]
+
+In this period, the global financial system was mainly tied to the gold standard. The United Kingdom first formally adopted this standard in 1821. Soon to follow were Canada in 1853, Newfoundland in 1865, the United States and Germany (de jure) in 1873. New technologies, such as the telegraph, the transatlantic cable, the radiotelephone, the steamship and railway allowed goods and information to move around the world at an unprecedented degree.[56]
+The New York stock exchange traders' floor (1963)
+
+In the period following the global depression of the 1930s, the state played an increasingly prominent role in the capitalistic system throughout much of the world. The postwar boom ended in the late 1960s and early 1970s and the situation was worsened by the rise of stagflation.[57] Monetarism, a modification of Keynesianism that is more compatible with laissez-faire, gained increasing prominence in the capitalist world, especially under the leadership of Ronald Reagan in the United States and Margaret Thatcher in the United Kingdom in the 1980s. Public and political interest began shifting away from the so-called collectivist concerns of Keynes's managed capitalism to a focus on individual choice, called "remarketized capitalism".[58]
+
+According to Harvard academic Shoshana Zuboff, a new genus of capitalism, surveillance capitalism, monetizes data acquired through surveillance.[59][60][61] She states it was first discovered and consolidated at Google, emerged due to the "coupling of the vast powers of the digital with the radical indifference and intrinsic narcissism of the financial capitalism and its neoliberal vision that have dominated commerce for at least three decades, especially in the Anglo economies"[60] and depends on the global architecture of computer mediation which produces a distributed and largely uncontested new expression of power she calls "Big Other".[62]
+Relationship to democracy
+Many analysts[who?] assert that China is one of the main examples of state capitalism in the 21st century
+
+The relationship between democracy and capitalism is a contentious area in theory and in popular political movements. The extension of universal adult male suffrage in 19th-century Britain occurred along with the development of industrial capitalism and democracy became widespread at the same time as capitalism, leading capitalists to posit a causal or mutual relationship between them.[63] However, according to some authors in the 20th-century capitalism also accompanied a variety of political formations quite distinct from liberal democracies, including fascist regimes, absolute monarchies and single-party states.[41] Democratic peace theory asserts that democracies seldom fight other democracies, but critics of that theory suggest that this may be because of political similarity or stability rather than because they are democratic or capitalist. Moderate critics argue that though economic growth under capitalism has led to democracy in the past, it may not do so in the future as authoritarian regimes have been able to manage economic growth without making concessions to greater political freedom.[64][65]
+
+One of the biggest supporters of the idea that capitalism promotes political freedom, Milton Friedman, argued that competitive capitalism allows economic and political power to be separate, ensuring that they do not clash with one another. Moderate critics have recently challenged this, stating that the current influence lobbying groups have had on policy in the United States is a contradiction, given the approval of Citizens United. This has led people to question the idea that competitive capitalism promotes political freedom. The ruling on Citizens United allows corporations to spend undisclosed and unregulated amounts of money on political campaigns, shifting outcomes to the interests and undermining true democracy. As explained in Robin Hahnel’s writings, the centerpiece of the ideological defense of the free market system is the concept of economic freedom and that supporters equate economic democracy with economic freedom and claim that only the free market system can provide economic freedom. According to Hahnel, there are a few objections to the premise that capitalism offers freedom through economic freedom. These objections are guided by critical questions about who or what decides whose freedoms are more protected. Often, the question of inequality is brought up when discussing how well capitalism promotes democracy. An argument that could stand is that economic growth can lead to inequality given that capital can be acquired at different rates by different people. In Capital in the Twenty-First Century, Thomas Piketty of the Paris School of Economics asserts that inequality is the inevitable consequence of economic growth in a capitalist economy and the resulting concentration of wealth can destabilize democratic societies and undermine the ideals of social justice upon which they are built.[66] Marxists, anarchists (except for anarcho-capitalists) and other leftists argue that capitalism is incompatible with democracy since capitalism according to Marx entails "dictatorship of the bourgeoisie" (owners of the means of production) while democracy entails rule by the people.[citation needed]
+
+States with capitalistic economic systems have thrived under political regimes deemed to be authoritarian or oppressive. Singapore has a successful open market economy as a result of its competitive, business-friendly climate and robust rule of law. Nonetheless, it often comes under fire for its brand of government which though democratic and consistently one of the least corrupt[67] it also operates largely under a one-party rule and does not vigorously defend freedom of expression given its government-regulated press as well as penchant for upholding laws protecting ethnic and religious harmony, judicial dignity and personal reputation. The private (capitalist) sector in the People's Republic of China has grown exponentially and thrived since its inception, despite having an authoritarian government. Augusto Pinochet's rule in Chile led to economic growth and high levels of inequality[68] by using authoritarian means to create a safe environment for investment and capitalism. Similarly, Suharto's authoritarian reign and extirpation of the Communist Party of Indonesia allowed for the expansion of capitalism in Indonesia.[69][70]
+Varieties of capitalism
+Main article: Varieties of Capitalism
+
+Peter A. Hall and David Soskice argued that modern economies have developed two different forms of capitalism: liberal market economies (or LME) (e.g. the United States, the United Kingdom, Canada, New Zealand and Ireland) and coordinated market economies (CME) (e.g. Germany, Japan, Sweden and Austria). Those two types can be distinguished by the primary way in which firms coordinate with each other and other actors, such as trade unions. In LMEs, firms primarily coordinate their endeavors by way of hierarchies and market mechanisms. Coordinated market economies more heavily rely on non-market forms of interaction in the coordination of their relationship with other actors (for a detailed description see Varieties of Capitalism). These two forms of capitalisms developed different industrial relations, vocational training and education, corporate governance, inter-firm relations and relations with employees. The existence of these different forms of capitalism has important societal effects, especially in periods of crisis and instability. Since the early 2000s, the number of labor market outsiders has rapidly grown in Europe, especially among the youth, potentially influencing social and political participation. Using varieties of capitalism theory, it is possible to disentangle the different effects on social and political participation that an increase of labor market outsiders has in liberal and coordinated market economies (Ferragina et al., 2016).[71] The social and political disaffection, especially among the youth, seems to be more pronounced in liberal than coordinated market economies. This signals an important problem for liberal market economies in a period of crisis. If the market does not provide consistent job opportunities (as it has in previous decades), the shortcomings of liberal social security systems may depress social and political participation even further than in other capitalist economies.
+Characteristics
+Further information: Academic perspectives on capitalism
+
+In general, capitalism as an economic system and mode of production can be summarised by the following:[72]
+
+    Capital accumulation:[73] production for profit and accumulation as the implicit purpose of all or most of production, constriction or elimination of production formerly carried out on a common social or private household basis.[74]
+    Commodity production: production for exchange on a market; to maximize exchange-value instead of use-value.
+    Private ownership of the means of production:[10]
+    High levels of wage labour.[75]
+    The investment of money to make a profit.[76]
+    The use of the price mechanism to allocate resources between competing uses.[10]
+    Economically efficient use of the factors of production and raw materials due to maximization of value added in the production process.[77][78]
+    Freedom of capitalists to act in their self-interest in managing their business and investments.[79]
+
+The market
+The price (P) of a product is determined by a balance between production at each price (supply, S) and the desires of those with purchasing power at each price (demand, D): this results in a market equilibrium, with a given quantity (Q) sold of the product, whereas a rise in demand would result in an increase in price and an increase in output
+
+In free market and laissez-faire forms of capitalism, markets are used most extensively with minimal or no regulation over the pricing mechanism. In mixed economies, which are almost universal today,[80] markets continue to play a dominant role, but they are regulated to some extent by the state in order to correct market failures, promote social welfare, conserve natural resources, fund defense and public safety or other rationale. In state capitalist systems, markets are relied upon the least, with the state relying heavily on state-owned enterprises or indirect economic planning to accumulate capital.
+
+Supply is the amount of a good or service that is available for purchase or sale. Demand is the measure of value for a good that people are willing to buy at a given time. Prices tend to rise when demand for an available resource increases or its supply diminishes and fall with demand or when supply increases.
+
+Competition arises when more than one producer is trying to sell the same or similar products to the same buyers. In capitalist theory, competition leads to innovation and more affordable prices. Without competition, a monopoly or cartel may develop. A monopoly occurs when a firm is granted exclusivity over a market. Hence the firm can engage in rent seeking behaviors such as limiting output and raising prices because it has no fear of competition. A cartel is a group of firms that act together in a monopolistic manner to control output and prices.
+
+Governments have implemented legislation for the purpose of preventing the creation of monopolies and cartels. In 1890, the Sherman Anti-Trust Act became the first legislation passed by the United States Congress to limit monopolies.[81]
+Profit motive
+Main article: Profit motive
+
+The profit motive, in the theory in capitalism, is the desire to earn income in the form of profit. Stated differently, the reason for a business's existence is to turn a profit. The profit motive functions according to rational choice theory, or the theory that individuals tend to pursue what is in their own best interests. Accordingly, businesses seek to benefit themselves and/or their shareholders by maximizing profit.
+
+In capitalist theoretics, the profit motive is said to ensure that resources are being allocated efficiently. For instance, Austrian economist Henry Hazlitt explains: "If there is no profit in making an article, it is a sign that the labor and capital devoted to its production are misdirected: the value of the resources that must be used up in making the article is greater than the value of the article itself".[82] In other words, profits let companies know whether an item is worth producing. Theoretically, in free and competitive markets maximising profit ensures that resources are not wasted.
+Private property
+Main article: Private property
+
+The relationship between the state, its formal mechanisms and capitalist societies has been debated in many fields of social and political theory, with active discussion since the 19th century. Hernando de Soto is a contemporary Peruvian economist who has argued that an important characteristic of capitalism is the functioning state protection of property rights in a formal property system where ownership and transactions are clearly recorded.[83]
+
+According to de Soto, this is the process by which physical assets are transformed into capital, which in turn may be used in many more ways and much more efficiently in the market economy. A number of Marxian economists have argued that the Enclosure Acts in England and similar legislation elsewhere were an integral part of capitalist primitive accumulation and that specific legal frameworks of private land ownership have been integral to the development of capitalism.[84][85]
+Market competition
+Main article: Competition (economics)
+
+In capitalist economics, market competition is the rivalry among sellers trying to achieve such goals as increasing profits, market share and sales volume by varying the elements of the marketing mix: price, product, distribution and promotion. Merriam-Webster defines competition in business as "the effort of two or more parties acting independently to secure the business of a third party by offering the most favourable terms".[86] It was described by Adam Smith in The Wealth of Nations (1776) and later economists as allocating productive resources to their most highly valued uses[87] and encouraging efficiency. Smith and other classical economists before Antoine Augustine Cournot were referring to price and non-price rivalry among producers to sell their goods on best terms by bidding of buyers, not necessarily to a large number of sellers nor to a market in final equilibrium.[88] Competition is widespread throughout the market process. It is a condition where "buyers tend to compete with other buyers, and sellers tend to compete with other sellers".[89] In offering goods for exchange, buyers competitively bid to purchase specific quantities of specific goods which are available, or might be available if sellers were to choose to offer such goods. Similarly, sellers bid against other sellers in offering goods on the market, competing for the attention and exchange resources of buyers. Competition results from scarcity—there is never enough to satisfy all conceivable human wants—and occurs "when people strive to meet the criteria that are being used to determine who gets what".[89]
+Economic growth
+World's GDP per capita shows exponential growth since the beginning of the Industrial Revolution[90]
+Capitalism and the economy of the People's Republic of China
+
+Historically, capitalism has an ability to promote economic growth as measured by gross domestic product (GDP), capacity utilization or standard of living. This argument was central, for example, to Adam Smith's advocacy of letting a free market control production and price and allocate resources. Many theorists have noted that this increase in global GDP over time coincides with the emergence of the modern world capitalist system.[91][92]
+
+Between 1000 and 1820, the world economy grew sixfold, a faster rate than the population growth, so individuals enjoyed, on average, a 50% increase in income. Between 1820 and 1998, world economy grew 50-fold, a much faster rate than the population growth, so individuals enjoyed on average a 9-fold increase in income.[93] Over this period, in Europe, North America and Australasia the economy grew 19-fold per person, even though these regions already had a higher starting level; and in Japan, which was poor in 1820, the increase per person was 31-fold. In the Third World, there was an increase, but only 5-fold per person.[93]
+As a mode of production
+Further information: Mode of production
+
+The capitalist mode of production refers to the systems of organising production and distribution within capitalist societies. Private money-making in various forms (renting, banking, merchant trade, production for profit and so on) preceded the development of the capitalist mode of production as such. The capitalist mode of production proper based on wage-labour and private ownership of the means of production and on industrial technology began to grow rapidly in Western Europe from the Industrial Revolution, later extending to most of the world.[citation needed]
+
+The term capitalist mode of production is defined by private ownership of the means of production, extraction of surplus value by the owning class for the purpose of capital accumulation, wage-based labour and at least as far as commodities are concerned being market-based.[94]
+
+Capitalism in the form of money-making activity has existed in the shape of merchants and money-lenders who acted as intermediaries between consumers and producers engaging in simple commodity production (hence the reference to "merchant capitalism") since the beginnings of civilisation. What is specific about the "capitalist mode of production" is that most of the inputs and outputs of production are supplied through the market (i.e. they are commodities) and essentially all production is in this mode.[10] For example, in flourishing feudalism most or all of the factors of production including labour are owned by the feudal ruling class outright and the products may also be consumed without a market of any kind, it is production for use within the feudal social unit and for limited trade.[73] This has the important consequence that the whole organisation of the production process is reshaped and re-organised to conform with economic rationality as bounded by capitalism, which is expressed in price relationships between inputs and outputs (wages, non-labour factor costs, sales and profits) rather than the larger rational context faced by society overall—that is, the whole process is organised and re-shaped in order to conform to "commercial logic". Essentially, capital accumulation comes to define economic rationality in capitalist production.[74]
+
+A society, region or nation is capitalist if the predominant source of incomes and products being distributed is capitalist activity, but even so this does not yet mean necessarily that the capitalist mode of production is dominant in that society.
+Supply and demand
+Main article: Supply and demand
+The price P of a product is determined by a balance between production at each price (supply S) and the desires of those with purchasing power at each price (demand D): the diagram shows a positive shift in demand from D1 to D2, resulting in an increase in price (P) and quantity sold (Q) of the product
+
+In capitalist economic structures, supply and demand is an economic model of price determination in a market. It concludes that in a competitive market, the unit price for a particular good will vary until it settles at a point where the quantity demanded by consumers (at the current price) will equal the quantity supplied by producers (at the current price), resulting in an economic equilibrium for price and quantity.
+
+The four basic laws of supply and demand are:[95]:37
+
+    If demand increases (demand curve shifts to the right) and supply remains unchanged, then a shortage occurs, leading to a higher equilibrium price.
+    If demand decreases (demand curve shifts to the left) and supply remains unchanged, then a surplus occurs, leading to a lower equilibrium price.
+    If demand remains unchanged and supply increases (supply curve shifts to the right), then a surplus occurs, leading to a lower equilibrium price.
+    If demand remains unchanged and supply decreases (supply curve shifts to the left), then a shortage occurs, leading to a higher equilibrium price.
+
+Graphical representation of supply and demand
+
+Although it is normal to regard the quantity demanded and the quantity supplied as functions of the price of the goods, the standard graphical representation, usually attributed to Alfred Marshall, has price on the vertical axis and quantity on the horizontal axis, the opposite of the standard convention for the representation of a mathematical function.
+
+Since determinants of supply and demand other than the price of the goods in question are not explicitly represented in the supply-demand diagram, changes in the values of these variables are represented by moving the supply and demand curves (often described as "shifts" in the curves). By contrast, responses to changes in the price of the good are represented as movements along unchanged supply and demand curves.
+Supply schedule
+
+A supply schedule is a table that shows the relationship between the price of a good and the quantity supplied. Under the assumption of perfect competition, supply is determined by marginal cost. That is: firms will produce additional output while the cost of producing an extra unit of output is less than the price they would receive.
+
+A hike in the cost of raw goods would decrease supply and shifting costs up while a discount would increase supply, shifting costs down and hurting producers as producer surplus decreases.
+
+By its very nature, conceptualising a supply curve requires the firm to be a perfect competitor (i.e. to have no influence over the market price). This is true because each point on the supply curve is the answer to the question "If this firm is faced with this potential price, how much output will it be able to and willing to sell?". If a firm has market power, its decision of how much output to provide to the market influences the market price, therefore the firm is not "faced with" any pr

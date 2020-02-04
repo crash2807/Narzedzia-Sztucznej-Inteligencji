@@ -1,0 +1,71 @@
+SRA standard
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+	
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2009) (Learn how and when to remove this template message)
+
+The USRA standard locomotives and railroad cars were designed by the United States Railroad Administration, the nationalised rail system of the United States during World War I. 1,856 steam locomotives and over 100,000 railroad cars were built to these designs during the USRA's tenure. The locomotive designs in particular were the nearest the American railroads and locomotive builders ever got to standard locomotive types, and after the USRA was dissolved in 1920 many of the designs were duplicated in number, 3,251 copies being constructed overall. The last steam locomotive built for a Class I railroad in the United States, an 0-8-0 built by the Norfolk and Western Railway, was a USRA design. A total of 97 railroads used USRA or USRA-derived locomotives.
+Contents
+
+    1 Steam locomotive types
+        1.1 USRA 0-6-0
+        1.2 USRA 0-8-0
+        1.3 USRA Light 2-8-2 "Mikado"
+        1.4 USRA Heavy 2-8-2 "Mikado"
+        1.5 USRA Light 2-10-2 "Santa Fe"
+        1.6 USRA Heavy 2-10-2 "Santa Fe"
+        1.7 USRA Light 4-6-2 "Pacific"
+        1.8 USRA Heavy 4-6-2 "Pacific"
+        1.9 USRA Light 4-8-2 "Mountain"
+        1.10 USRA Heavy 4-8-2 "Mountain"
+        1.11 2-6-6-2
+        1.12 2-8-8-2
+    2 Freight cars
+
+Steam locomotive types
+
+The USRA developed designs for 0-6-0 and 0-8-0 switchers, 2-6-6-2 and 2-8-8-2 Mallet locomotives, and both light and heavy versions of the 2-8-2, 2-10-2, 4-6-2, and 4-8-2 types. The light versions were designed with an axle load of 54,000 lb (24,500 kg) permitting usage on the vast majority of railroads, while the heavy versions were designed to a maximum axle load of 60,000 lb (27,200 kg) for lines with more heavily constructed track.
+
+The U.S.R.A. also distributed 2-10-0 Decapods of Russian design to railroads under its control.
+USRA 0-6-0
+
+255 of the USRA 0-6-0 design were built, as well as a great many copies.
+USRA 0-8-0
+
+175 of the USRA 0-8-0 design were built, and it was copied extensively thereafter.
+USRA Light 2-8-2 "Mikado"
+
+625 of the USRA Light Mikado type were constructed, making it the most populous USRA type.
+USRA Heavy 2-8-2 "Mikado"
+
+233 of the USRA Heavy Mikados were built.
+USRA Light 2-10-2 "Santa Fe"
+
+94 USRA Light Santa Fe locomotives were constructed.
+USRA Heavy 2-10-2 "Santa Fe"
+
+175 USRA Heavy Santa Fe locomotives were built.
+USRA Light 4-6-2 "Pacific"
+
+81 USRA Light Pacifics were constructed.
+USRA Heavy 4-6-2 "Pacific"
+
+20 USRA Heavy Pacifics were built.
+USRA Light 4-8-2 "Mountain"
+
+47 of the USRA Light Mountain type were built.
+USRA Heavy 4-8-2 "Mountain"
+
+15 USRA Heavy Mountains were constructed.
+2-6-6-2
+
+30 of the USRA 2-6-6-2 type were built.
+2-8-8-2
+
+106 of the USRA 2-8-8-2 locomotives were constructed. The Norfolk and Western Railway, in particular, continued building this type after the USRA period, developing and modernising it over time, as its Class Y. A N&W Y6B was the last conventional freight-hauling steam locomotive built in the United States.
+Freight cars
+[icon]	
+This section needs expansion. You can help by adding to it. (June 2008)
+
+As part of the USRA, two common boxcar designs were developed: a single sheathed car and a double sheathed car. When the USRA boxcars were being designed there wasn't an industry consensus on which was better, so both were built. Freight car design was still in flux in the early part of the 20th century. As John White points out in The American Freight Car, most cars were really composites, not completely wood or steel, and even after steel cars had become the norm, wood had its uses and advantages. Still, steel underframes had come to replace wood underframes, but as metallurgy improved, there were new designs developed that took advantage of the improved technology. USRA double sheathed boxcars had a fishbelly underframe while the USRA single sheathed cars did not. In general, double sheathed boxcars are like girder bridges, so all the support needs to come from the frame. Those cars need a stronger frame, hence the fishbelly underframe. Single sheathed cars are like truss bridges, with the metal side bracing acting as the main structural support for the "bridge." While some engineers did not trust the steel bracing to support a single sheathed car and ordered fishbelly frames for strength, others valued the savings in weight and ordered cars with simpler frames like the USRA SS design. 
